@@ -92,7 +92,7 @@ def append_head(site_title, site_icon, avatar, href, name, desc, location):
                         </div>
                         <nav class="nav">
                         <div class="item active">
-                            <a href="./index.html">首页</a>
+                            <a href="./">Top</a>
                             <i class="line"></i>
                         </div>
                         <ul class="nav-item" id="navItem">'''.format(site_title, site_icon, href, avatar, name, desc,
