@@ -1,0 +1,4784 @@
+{
+  "boxs": [
+    {
+      "name": "热门推荐",
+      "tags": [
+        {
+          "title": "今日热榜",
+          "url": "https://tophub.today/",
+          "desc": "一站式浏览总多平台的头条排行榜，包括微博、知乎、百度、微信等等"
+        },
+        {
+          "title": "虫部落",
+          "url": "https://www.chongbuluo.com/",
+          "desc": "虫部落是一个纯粹的搜索知识、技术和经验分享平台"
+        }
+      ]
+    },
+    {
+      "name": "影音娱乐",
+      "tags": [
+        {
+          "title": "大米星球",
+          "url": "https://dmxq.fun/",
+          "desc": "大米星球 奈飞Netflix免费看，每天更新热火欧美日韩剧，最新韩国电影，在线免费电影网，VIP视频免费看！"
+        },
+        {
+          "title": "安逸影视导航",
+          "url": "https://anee.cc/",
+          "desc": "做全网最全电影剧集综艺动漫视频导航"
+        },
+        {
+          "title": "ck电影网",
+          "url": "http://www.ckmovies.cn/",
+          "desc": "ck电影在线观看免费网2021"
+        },
+        {
+          "title": "12看看电影网",
+          "url": "https://www.12kk.net/",
+          "desc": "免费看VIP电影"
+        },
+        {
+          "title": "zzzfun动漫",
+          "url": "http://www.zzzfun.com/",
+          "desc": "zzzfun动漫视频网"
+        },
+        {
+          "title": "影视狼",
+          "url": "http://www.yslang.cc/",
+          "desc": "最新电影-高清电影-手机看片-热播电视剧"
+        },
+        {
+          "title": "千禾影院",
+          "url": "http://qhyy.site/",
+          "desc": "免费电影"
+        },
+        {
+          "title": "茶杯狐Cupfox",
+          "url": "https://www.cupfox.com/",
+          "desc": "努力让找电影变得简单"
+        },
+        {
+          "title": "想看剧",
+          "url": "https://www.xiangkanju.cc/",
+          "desc": "原左手吃斋影视想看剧"
+        },
+        {
+          "title": "音范丝",
+          "url": "https://www.yinfans.me/",
+          "desc": "影音集|精选4K蓝光原盘下载，顶级收藏"
+        },
+        {
+          "title": "素白白影视",
+          "url": "https://www.subaibai.com/",
+          "desc": "最新电影,高清电影,免费电影,在线电影,最新电视剧,电影下载,免费下载"
+        },
+        {
+          "title": "杰克影院",
+          "url": "https://www.jk607.com/",
+          "desc": "免费追剧大全在线观看-极速版-606电影网"
+        },
+        {
+          "title": "美剧家园官网",
+          "url": "https://lvnvl.cn/",
+          "desc": "天天看美剧，美剧下载，美剧家园，精品美剧，美剧排行榜"
+        },
+        {
+          "title": "美剧鸟",
+          "url": "https://www.meijuniao.com/",
+          "desc": "天天美剧天堂"
+        },
+        {
+          "title": "蛋播星球",
+          "url": "https://danboxingqiu.gitee.io/",
+          "desc": "我只想安静的看个剧"
+        },
+        {
+          "title": "捏它追剧",
+          "url": "http://www.nieta.co/",
+          "desc": "nieta_一个神奇的追剧小站"
+        },
+        {
+          "title": "AcFun弹幕视频",
+          "url": "https://www.acfun.cn/",
+          "desc": "中国最具影响力的弹幕视频平台"
+        },
+        {
+          "title": "C站",
+          "url": "https://cilicili.cn/",
+          "desc": "Cilicili"
+        },
+        {
+          "title": "西瓜视频",
+          "url": "https://www.ixigua.com/",
+          "desc": "高清免费在线视频 - 点亮对生活的好奇心"
+        },
+        {
+          "title": "电影导航网",
+          "url": "https://www.dydh.org/",
+          "desc": "电影网站大全_电影网站排行榜_电影网址导航"
+        },
+        {
+          "title": "音乐聚合搜索引擎",
+          "url": "http://www.gequdaquan.net/gqss/",
+          "desc": "音乐免费下载mp3-音乐免费下载"
+        },
+        {
+          "title": "小C网",
+          "url": "https://www.kejixiaoc.com/",
+          "desc": "输入视频链接和名称开始解析"
+        },
+        {
+          "title": "Steam",
+          "url": "https://store.steampowered.com/",
+          "desc": "畅玩游戏、讨论游戏、创造游戏的终极目的地。"
+        }
+      ]
+    },
+    {
+      "name": "电子书籍文档资料",
+      "tags": [
+        {
+          "title": "书享家",
+          "url": "http://shuxiangjia.cn/",
+          "desc": "电子书下载导航"
+        },
+        {
+          "title": "简道云筛选",
+          "url": "https://tyi45di4ct.jiandaoyun.com/dash/5e7d915c6c56d8000674a8b8",
+          "desc": "电子书下载网站大全"
+        },
+        {
+          "title": "鸠摩搜索",
+          "url": "https://www.jiumodiary.com/",
+          "desc": "Jiumo Search 文档搜索引擎"
+        },
+        {
+          "title": "超星读书",
+          "url": "http://book.chaoxing.com/",
+          "desc": "电子书在线免费阅读网站-中文免费电子书阅读网站"
+        },
+        {
+          "title": "SoBooks",
+          "url": "https://sobooks.cc/",
+          "desc": "一起分享阅读的乐趣"
+        },
+        {
+          "title": "OpenStax",
+          "url": "https://openstax.org/",
+          "desc": "Free textbooks."
+        },
+        {
+          "title": "Manybooks",
+          "url": "https://manybooks.net/",
+          "desc": "50,000+ Free eBooks in the Genres you Love"
+        },
+        {
+          "title": "Academia.edu",
+          "url": "https://www.academia.edu/",
+          "desc": "学术界是分享学术研究的平台。"
+        },
+        {
+          "title": "中国国家图书馆",
+          "url": "http://www.nlc.cn/",
+          "desc": "中国国家数字图书馆"
+        },
+        {
+          "title": "电子图书公益阅读",
+          "url": "http://read.nlc.cn/menhu/gyyd/index",
+          "desc": "中国国家数字图书馆"
+        },
+        {
+          "title": "高教书苑",
+          "url": "https://ebook.hep.com.cn/ebooks/index.html#/",
+          "desc": "高等教育出版社"
+        },
+        {
+          "title": "北大出版社电子教材书架",
+          "url": "https://pup6.yunzhan365.com/bookcase/kiru/index.html",
+          "desc": "免费下载北大电子教材"
+        },
+        {
+          "title": "书格",
+          "url": "https://new.shuge.org/",
+          "desc": "开放式分享、介绍公共版权领域的古籍善本数字资源"
+        },
+        {
+          "title": "LoreFree",
+          "url": "https://ebook2.lorefree.com/",
+          "desc": "去中心化免费电子书共享社区"
+        },
+        {
+          "title": "图灵社区免费书籍",
+          "url": "https://www.ituring.com.cn/book?tab=free",
+          "desc": "技术改变世界，阅读塑造人生"
+        },
+        {
+          "title": "PDF Drive",
+          "url": "https://www.pdfdrive.com/",
+          "desc": "Search and download PDF files for free."
+        },
+        {
+          "title": "PDF之家",
+          "url": "http://pdfzj.cn/",
+          "desc": "免费高清PDF电子书下载"
+        },
+        {
+          "title": "苦瓜书盘",
+          "url": "https://www.kgbook.com//",
+          "desc": "供网友交流适合电纸书阅读的6寸pdf及mobi格式电子书制作技术的网站"
+        },
+        {
+          "title": "联图云.光盘",
+          "url": "http://discx.yuntu.io/",
+          "desc": "图书光盘"
+        },
+        {
+          "title": "问答库",
+          "url": "https://www.asklib.com/",
+          "desc": "做最有用的题库问答学习平台"
+        },
+        {
+          "title": "凌风云文库",
+          "url": "https://wenku.lingfengyun.com/",
+          "desc": "新一代文库分享与免费下载"
+        },
+        {
+          "title": "帮帮文库",
+          "url": "http://www.woc88.com/",
+          "desc": "可研报告|机械CAD图纸|外文文献翻译|毕业设计论文|教学课件|施工组织-资料分享平台"
+        },
+        {
+          "title": "小库档",
+          "url": "https://www.xiaokudang.com/",
+          "desc": "资源综合搜索与知识共享平台"
+        },
+        {
+          "title": "嗨文库官网",
+          "url": "http://www.hiwenku.com/",
+          "desc": "文档免费下载"
+        },
+        {
+          "title": "道客巴巴",
+          "url": "https://www.doc88.com/",
+          "desc": "在线文档分享平台"
+        },
+        {
+          "title": "百度文库",
+          "url": "https://wenku.baidu.com/",
+          "desc": "让每个人平等地提升自我"
+        },
+        {
+          "title": "百度文库免费下载方法",
+          "url": "http://ebuymed.cn/",
+          "desc": "百度文库下载券_百度文库免费下载_下载百度文库"
+        },
+        {
+          "title": "大木虫",
+          "url": "http://www.yaersen.com/",
+          "desc": "文库原格式文档下载"
+        },
+        {
+          "title": "豆丁网",
+          "url": "https://www.docin.com/",
+          "desc": "分享文档，发现价值"
+        },
+        {
+          "title": "淘链客",
+          "url": "http://www.toplinks.cc/s/",
+          "desc": "外链资源聚合搜索引擎"
+        },
+        {
+          "title": "课件资源网址导航",
+          "url": "https://hao123.cnease.cn/webdir/category/457-1.html",
+          "desc": "hao123分类目录"
+        },
+        {
+          "title": "范文网",
+          "url": "https://www.liuxue86.com/fanwen/",
+          "desc": "免费范文下载"
+        },
+        {
+          "title": "论文资源中心",
+          "url": "http://www.cnfirst.net/",
+          "desc": "毕业论文"
+        }
+      ]
+    },
+    {
+      "name": "在线图表设计排版",
+      "tags": [
+        {
+          "title": "笔杆网",
+          "url": "https://www.bigan.net/",
+          "desc": "基于大数据分析的智能写作平台"
+        },
+        {
+          "title": "网络画板",
+          "url": "https://www.netpad.net.cn/",
+          "desc": "开放、共享的数学实验室"
+        },
+        {
+          "title": "InDrawforWeb",
+          "url": "http://indrawforweb.integle.com/",
+          "desc": "网页版化学结构式编辑器"
+        },
+        {
+          "title": "公式王",
+          "url": "https://gongshi.wang/",
+          "desc": "公式图片转Word格式"
+        },
+        {
+          "title": "Mathpix OCR",
+          "url": "https://mathpix.com/ocr",
+          "desc": "OCR API for Math and Science"
+        },
+        {
+          "title": "Overleaf",
+          "url": "https://cn.overleaf.com/",
+          "desc": "在线LaTeX编辑器"
+        },
+        {
+          "title": "在线LaTeX公式编辑器",
+          "url": "https://latex.codecogs.com/",
+          "desc": "Welcome to the World's #1 online equation rendering service."
+        },
+        {
+          "title": "TablesGenerator",
+          "url": "https://www.tablesgenerator.com/#",
+          "desc": "Create LaTeX tables online"
+        },
+        {
+          "title": "LaTeX工作室",
+          "url": "https://www.latexstudio.net/articles/",
+          "desc": "中国专职 LaTeX 专业服务网站"
+        },
+        {
+          "title": "百度脑图",
+          "url": "https://naotu.baidu.com/",
+          "desc": "汇集了XMind和Smartart的基本功能"
+        },
+        {
+          "title": "GitMind官网",
+          "url": "https://gitmind.cn/",
+          "desc": "免费在线思维导图软件"
+        },
+        {
+          "title": "萝卜工坊",
+          "url": "http://www.beautifulcarrot.com/",
+          "desc": "模仿真人手写_在线打印手写字体效果文档_在线手写字体转换代抄写"
+        },
+        {
+          "title": "秀米XIUMI",
+          "url": "https://xiumi.us/#/",
+          "desc": "原创模板素材，精选风格排版，独一无二的排版方式，设计出只属于你的图文。"
+        },
+        {
+          "title": "微信公众平台",
+          "url": "https://mp.weixin.qq.com/",
+          "desc": "微信扫一扫，选择该微信下的 公众平台帐号登录"
+        },
+        {
+          "title": "unDraw",
+          "url": "https://undraw.co/",
+          "desc": "Open source illustrations for any idea"
+        },
+        {
+          "title": "PP匠",
+          "url": "http://ppj.io/",
+          "desc": "上传PPT 一键生成H5"
+        },
+        {
+          "title": "Canva中文官网",
+          "url": "https://www.canva.cn/zh_cn/",
+          "desc": "Canva可画在线平面设计软件_免费设计模板素材和海量正版图片"
+        },
+        {
+          "title": "创客贴",
+          "url": "https://www.chuangkit.com/",
+          "desc": "平面设计作图神器_免费设计模板_在线稿定设计印刷"
+        },
+        {
+          "title": "稿定设计",
+          "url": "https://www.gaoding.com/",
+          "desc": "做图做视频必备_在线设计神器_海量版权素材模板"
+        },
+        {
+          "title": "Magic Mockups",
+          "url": "https://magicmockups.com/",
+          "desc": "Free real-life mockup generator"
+        },
+        {
+          "title": "百度地图开放平台",
+          "url": "https://developer.baidu.com/map/custom/",
+          "desc": "百度地图个性在线编辑器"
+        },
+        {
+          "title": "地图慧",
+          "url": "http://c.dituhui.com/apps",
+          "desc": "在线制作地图,数据地图,专题地图,用地图说话"
+        },
+        {
+          "title": "智图GeoQ",
+          "url": "http://www.geoq.cn/atlas.html",
+          "desc": "地图集 | 地图故事"
+        },
+        {
+          "title": "CADMAPPER",
+          "url": "https://cadmapper.com/",
+          "desc": "Worldwide map files for any design program"
+        },
+        {
+          "title": "图象可视化",
+          "url": "http://www.tuuux.com/",
+          "desc": "聚焦国内外可视化创意社区"
+        },
+        {
+          "title": "便民查询网地图",
+          "url": "https://map.bmcx.com/",
+          "desc": "中国地图 - 中国卫星地图 - 中国高清航拍地图"
+        }
+      ]
+    },
+    {
+      "name": "图文影音格式转换",
+      "tags": [
+        {
+          "title": "Smallpdf",
+          "url": "https://smallpdf.com/",
+          "desc": "A Free Solution to all your PDF Problems"
+        },
+        {
+          "title": "ALL TO ALL",
+          "url": "https://www.alltoall.net/",
+          "desc": "国内最全类型的在线文件转换平台，免费、快速，无须下载安装任何软件。"
+        },
+        {
+          "title": "转换大师",
+          "url": "http://pdftoword.55.la/",
+          "desc": "PDF转换PDF处理CAD转换图片转换文件压缩电子书转换"
+        },
+        {
+          "title": "易转换",
+          "url": "https://www.easeconvert.com/",
+          "desc": "免费文件转换工具，支持PDF、Office、知网CAJ、CAD等上百种格式"
+        },
+        {
+          "title": "Speedpdf",
+          "url": "https://speedpdf.com/zh-cn/",
+          "desc": "提供免费PDF转换器、编辑器、阅读器、下载、分享的服务平台！"
+        },
+        {
+          "title": "LightPDF",
+          "url": "https://lightpdf.com/zh/",
+          "desc": "免费在线编辑、转换PDF文件"
+        },
+        {
+          "title": "SuperTools",
+          "url": "https://www.wdku.net/",
+          "desc": "在线超级转换工具"
+        },
+        {
+          "title": "Office-Converter",
+          "url": "https://cn.office-converter.com/",
+          "desc": "在线转换器 - 转换视频, 音乐, 图像, PDF"
+        },
+        {
+          "title": "Keynote to PowerPoint",
+          "url": "https://cloudconvert.com/key-to-ppt",
+          "desc": "在线将.KEY转换为.PPT或.PPTX文件！"
+        },
+        {
+          "title": "PDF派",
+          "url": "https://www.pdfpai.com/",
+          "desc": "数十个功能强大的在线免费PDF转换以及编辑等工具"
+        },
+        {
+          "title": "在线转换器",
+          "url": "https://cn.office-converter.com/",
+          "desc": "转换视频, 音乐, 图像, PDF"
+        },
+        {
+          "title": "Convertio",
+          "url": "https://convertio.co/zh/",
+          "desc": "文件转换器"
+        },
+        {
+          "title": "第一字体网",
+          "url": "http://www.diyiziti.com/",
+          "desc": "书法字体转换器在线转换-艺术字体在线生成器设计"
+        },
+        {
+          "title": "iLoveIMG",
+          "url": "https://www.iloveimg.com/zh-cn",
+          "desc": "图像文件在线编辑工具"
+        },
+        {
+          "title": "智图",
+          "url": "https://zhitu.isux.us/",
+          "desc": "图片压缩在线工具_在线制作webp"
+        },
+        {
+          "title": "img.top",
+          "url": "https://img.top/",
+          "desc": "智能在线图像压缩"
+        },
+        {
+          "title": "Picdiet",
+          "url": "https://www.picdiet.com/",
+          "desc": "fastest online image filesize compressor"
+        },
+        {
+          "title": "TinyPNG",
+          "url": "https://tinypng.com/",
+          "desc": "Compress PNG images while preserving transparency"
+        }
+      ]
+    },
+    {
+      "name": "数据处理在线助手",
+      "tags": [
+        {
+          "title": "Highcharts",
+          "url": "https://www.highcharts.com.cn/demo/highcharts",
+          "desc": "让数据可视化更简单"
+        },
+        {
+          "title": "Apache ECharts",
+          "url": "https://echarts.apache.org/zh/index.html",
+          "desc": "一个基于 JavaScript 的开源可视化图表库"
+        },
+        {
+          "title": "花火Hanabi",
+          "url": "https://hanabi.data-viz.cn/",
+          "desc": "在线数据短视频工具-数可视"
+        },
+        {
+          "title": "图说",
+          "url": "https://tushuo.baidu.com/",
+          "desc": "零编程玩转图表"
+        },
+        {
+          "title": "ChartCube",
+          "url": "https://chartcube.alipay.com/",
+          "desc": "在线图表制作工具"
+        },
+        {
+          "title": "Zeppelin",
+          "url": "http://zeppelin.apache.org/",
+          "desc": "Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more."
+        },
+        {
+          "title": "Tableau Public",
+          "url": "https://public.tableau.com/s/",
+          "desc": "Free Data Visualization Software"
+        },
+        {
+          "title": "OpenLayers",
+          "url": "https://openlayers.org/",
+          "desc": "A high-performance, feature-packed library for all your mapping needs."
+        },
+        {
+          "title": "Polymaps",
+          "url": "http://polymaps.org/",
+          "desc": "A JavaScript library for image- and vector-tiled maps using SVG."
+        },
+        {
+          "title": "dygraphs",
+          "url": "https://dygraphs.com/",
+          "desc": "dygraphs charting library"
+        },
+        {
+          "title": "RAWGraphs",
+          "url": "https://rawgraphs.io/",
+          "desc": "an open source data visualization framework"
+        },
+        {
+          "title": "Infogram",
+          "url": "https://infogram.com/",
+          "desc": "Create Infographics, Reports and Maps"
+        },
+        {
+          "title": "Plotly",
+          "url": "https://plotly.com/",
+          "desc": "The front end for ML and data science models"
+        },
+        {
+          "title": "Chart.js",
+          "url": "https://www.chartjs.org/",
+          "desc": "Open source HTML5 Charts for your website"
+        },
+        {
+          "title": "D3.js",
+          "url": "https://d3js.org/",
+          "desc": "Data-Driven Documents"
+        },
+        {
+          "title": "ZingChart",
+          "url": "https://www.zingchart.com/",
+          "desc": "JavaScript Charts in one powerful declarative library"
+        },
+        {
+          "title": "Flot",
+          "url": "http://www.flotcharts.org/",
+          "desc": "Attractive JavaScript plotting for jQuery"
+        },
+        {
+          "title": "Plotly|Chart Studio",
+          "url": "https://chart-studio.plotly.com/feed/#/",
+          "desc": "Make charts and dashboards online"
+        },
+        {
+          "title": "TikZ and PGF",
+          "url": "https://texample.net/tikz/",
+          "desc": "TeX packages for creating graphics programmatically"
+        },
+        {
+          "title": "Wolfram|Alpha",
+          "url": "https://www.wolframalpha.com/",
+          "desc": "Computational Intelligence"
+        },
+        {
+          "title": "Visually",
+          "url": "https://visual.ly/product/infographic-design",
+          "desc": "Infographic Design: The Best Way to Create Infographics"
+        },
+        {
+          "title": "Gephi",
+          "url": "https://gephi.org/",
+          "desc": "The Open Graph Viz Platform"
+        },
+        {
+          "title": "Processing.org",
+          "url": "https://processing.org/",
+          "desc": "Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts."
+        },
+        {
+          "title": "R",
+          "url": "https://www.r-project.org/",
+          "desc": "The R Project for Statistical Computing"
+        },
+        {
+          "title": "GeoGebra",
+          "url": "https://www.geogebra.org/classic",
+          "desc": "GeoGebra 经典"
+        },
+        {
+          "title": "Tangle",
+          "url": "http://worrydream.com/Tangle/",
+          "desc": "a JavaScript library for reactive documents"
+        },
+        {
+          "title": "Plot Digitizer",
+          "url": "http://plotdigitizer.sourceforge.net/",
+          "desc": "用于对功能数据的扫描图进行数字化"
+        }
+      ]
+    },
+    {
+      "name": "字词句篇在线翻译",
+      "tags": [
+        {
+          "title": "Deepl翻译",
+          "url": "https://www.deepl.com/translator",
+          "desc": "训练人工智能来理解和翻译文本"
+        },
+        {
+          "title": "百度翻译",
+          "url": "https://fanyi.baidu.com/",
+          "desc": "200种语言互译、沟通全世界！"
+        },
+        {
+          "title": "Google翻译",
+          "url": "https://translate.google.cn/",
+          "desc": "提供简体中文和另外 100 多种语言之间的互译功能"
+        },
+        {
+          "title": "腾讯翻译",
+          "url": "https://fanyi.qq.com/",
+          "desc": "全新人工智能翻译， 句子、文章、论文、资料翻译首选"
+        },
+        {
+          "title": "金山词霸",
+          "url": "http://www.iciba.com/",
+          "desc": "支持中、英、日、西班牙、韩、德、法语等177种语言互译"
+        },
+        {
+          "title": "阿里翻译",
+          "url": "https://translate.alibaba.com/",
+          "desc": "多领域多语种在线翻译"
+        },
+        {
+          "title": "微软必应",
+          "url": "https://cn.bing.com/translator/",
+          "desc": "在英语和 70 多种语言之间快速翻译单词、短语和网页。"
+        },
+        {
+          "title": "有道翻译",
+          "url": "http://fanyi.youdao.com/",
+          "desc": "免费、及时的多语种在线翻译"
+        },
+        {
+          "title": "翻译狗",
+          "url": "http://fanyigou.cn/trans/totran/tranText.html",
+          "desc": "媲美人工翻译的文档翻译平台"
+        },
+        {
+          "title": "青云翻译",
+          "url": "http://yingyu.zaixian-fanyi.com/",
+          "desc": "同时输出5种翻译结果"
+        },
+        {
+          "title": "彩云小译",
+          "url": "https://fanyi.caiyunapp.com/#/",
+          "desc": "开拓你的世界"
+        },
+        {
+          "title": "CNKI翻译助手",
+          "url": "https://dict.cnki.net/index#",
+          "desc": "中国知网旗下的免费翻译助手"
+        },
+        {
+          "title": "欧路词典",
+          "url": "https://dict.eudic.net/",
+          "desc": "集词典、听力和翻译于一体的教育使用工具"
+        },
+        {
+          "title": "沪江小D",
+          "url": "https://dict.hjenglish.com/app/trans",
+          "desc": "多语种在线翻译"
+        },
+        {
+          "title": "翻译在线",
+          "url": "http://baidu.ifanyi.com.cn/",
+          "desc": "百度、谷歌、有道等"
+        },
+        {
+          "title": "CopyTranslator",
+          "url": "https://copytranslator.github.io/",
+          "desc": "复制即翻译的外文辅助阅读翻译解决方案"
+        },
+        {
+          "title": "SCITranslate",
+          "url": "http://www.scitranslate.com/",
+          "desc": "最好用的文献翻译神器"
+        },
+        {
+          "title": "灵格斯词霸",
+          "url": "http://www.lingoes.cn/index.html",
+          "desc": "Lingoes Translator 免费的词典与文本翻译软件"
+        },
+        {
+          "title": "金桥翻译",
+          "url": "http://www.netat.net/",
+          "desc": "中国翻译行业-权威翻译机构"
+        }
+      ]
+    },
+    {
+      "name": "撰写工具",
+      "tags": [
+        {
+          "title": "Arya",
+          "url": "https://markdown.lovejade.cn/",
+          "desc": "在线 Markdown 编辑器"
+        }
+      ]
+    },
+    {
+      "name": "在线学习",
+      "tags": [
+        {
+          "title": "终身教育平台",
+          "url": "https://le.ouchn.cn/home#/home",
+          "desc": "各行各业，免费视频课程学习平台。"
+        },
+        {
+          "title": "爱孩子,爱上爸妈网",
+          "url": "https://www.ebama.net/index.php",
+          "desc": "幼儿英语、童书、教育、八卦、美食...年轻父母们的话题。爱孩子，爱上爸妈网。"
+        },
+        {
+          "title": "百晓生在线",
+          "url": "http://www.lbx777.net/default.html",
+          "desc": "人教、苏教版等教材 课件资源。"
+        },
+        {
+          "title": "优翼教学资源网",
+          "url": "http://www.youyi100.com/cp/index.aspx",
+          "desc": "2019年小学到初中所有版本课本同步教学课件"
+        },
+        {
+          "title": "共产党员网",
+          "url": "http://www.12371.cn/",
+          "desc": "中共中央组织部"
+        },
+        {
+          "title": "我爱自学网！",
+          "url": "http://www.52zxw.net/",
+          "desc": "我爱自学网_我要自学网_自学网站导航_学习网站导航"
+        },
+        {
+          "title": "公开课导航",
+          "url": "http://coursegraph.com/navigation/",
+          "desc": "课程图谱 - 在线课程点评 - 公开课推荐"
+        },
+        {
+          "title": "中国大学MOOC(慕课)",
+          "url": "https://www.icourse163.org/",
+          "desc": "国家精品课程在线学习平台"
+        },
+        {
+          "title": "UMOOCs",
+          "url": "http://moocs.unipus.cn/",
+          "desc": "中国高校外语慕课平台"
+        },
+        {
+          "title": "学堂在线",
+          "url": "https://www.xuetangx.com/",
+          "desc": "国家精品在线课程学习平台"
+        },
+        {
+          "title": "Coursade",
+          "url": "http://www.coursade.com/",
+          "desc": "Discover online learning"
+        },
+        {
+          "title": "1纳米学习",
+          "url": "http://www.1nami.com/",
+          "desc": "你和学习的距离只有1纳米。"
+        },
+        {
+          "title": "爱课程",
+          "url": "http://www.icourses.cn/home/",
+          "desc": "国际领先、国内最具影响力的高等教育在线开放课程平台。"
+        },
+        {
+          "title": "网易公开课",
+          "url": "https://open.163.com/",
+          "desc": "汇集清华、北大、哈佛、耶鲁等世界名校共上千门课程"
+        },
+        {
+          "title": "腾讯课堂",
+          "url": "https://ke.qq.com/",
+          "desc": "职业培训、考试提升在线教育平台"
+        },
+        {
+          "title": "第一教程网",
+          "url": "https://www.diyijc.com/",
+          "desc": "提供视频教程免费在线观看学习!"
+        },
+        {
+          "title": "大学生自学网",
+          "url": "http://v.dxsbb.com/",
+          "desc": "我要自学网视频教程"
+        },
+        {
+          "title": "大学资源网",
+          "url": "http://www.dxzy163.com/",
+          "desc": "免费在线教育课程"
+        },
+        {
+          "title": "淘宝教育",
+          "url": "https://xue.taobao.com/",
+          "desc": "名师互动，网络私教，专业有效"
+        },
+        {
+          "title": "菜鸟教程",
+          "url": "https://www.runoob.com/",
+          "desc": "学的不仅是技术，更是梦想！"
+        },
+        {
+          "title": "编橙之家",
+          "url": "http://www.byrx.net/",
+          "desc": "python教程 python入门 python培训"
+        },
+        {
+          "title": "廖雪峰的官方网站",
+          "url": "https://www.liaoxuefeng.com/",
+          "desc": "编程 读书 Java教程 Python教程 JavaScript教程"
+        },
+        {
+          "title": "CodeCombat",
+          "url": "https://koudashijie.com/play",
+          "desc": "挑战CodeCombat关卡 - 学习Python，JavaScript和C++"
+        },
+        {
+          "title": "数学家",
+          "url": "http://www.mathor.com/",
+          "desc": "数学建模课程_python在线学习_python课程_matlab在线课程学习"
+        },
+        {
+          "title": "极客学院",
+          "url": "https://www.jikexueyuan.com/",
+          "desc": "中国专业的IT职业在线教育平台"
+        },
+        {
+          "title": "i春秋",
+          "url": "https://www.ichunqiu.com/",
+          "desc": "专注网络安全_信息安全_教育_培训平台"
+        },
+        {
+          "title": "黑马程序员",
+          "url": "http://www.itheima.com/",
+          "desc": "java培训|前端培训|python培训|大数据培训"
+        },
+        {
+          "title": "Ted",
+          "url": "https://www.ted.com/",
+          "desc": "Ideas worth spreading"
+        },
+        {
+          "title": "ESLBuzz",
+          "url": "https://www.eslbuzz.com/",
+          "desc": "1000+ Free English Lessons with ESL Worksheets"
+        },
+        {
+          "title": "Crash Course",
+          "url": "https://crashcourse.club/",
+          "desc": "中文字幕组"
+        },
+        {
+          "title": "YouZack",
+          "url": "https://www.youzack.com/",
+          "desc": "英语听力精听、背单词"
+        },
+        {
+          "title": "中国人民大学英语口语能力标准",
+          "url": "http://sope.ruc.edu.cn/displaynews.php?id=927",
+          "desc": "中国人民大学外国语学院"
+        },
+        {
+          "title": "英语网址导航",
+          "url": "http://www.dioenglish.com/diolinks/",
+          "desc": "中国英语学习者最常使用的网址导航"
+        },
+        {
+          "title": "可可英语",
+          "url": "http://www.kekenet.com/",
+          "desc": "集实用性，互动性，娱乐性为一体的专业公益性英语学习平台"
+        },
+        {
+          "title": "英文博客网",
+          "url": "http://www.dioenglish.com/",
+          "desc": "中国最大的英语写作网站与英语学习者交流社区! - 英语日记,英语周记,英语作文,英文交流"
+        },
+        {
+          "title": "中国日报英文版",
+          "url": "http://www.chinadaily.com.cn/",
+          "desc": "作为中国与世界其他地区之间信息交流的渠道发挥着重要作用"
+        },
+        {
+          "title": "韩国语讲座",
+          "url": "http://world.kbs.co.kr/learn_korean/lessons/c_index.htm",
+          "desc": "Let's Learn Korean"
+        },
+        {
+          "title": "日语语法指南",
+          "url": "http://res.wokanxing.info/jpgramma/index.html",
+          "desc": "Learn Japanese"
+        },
+        {
+          "title": "医学微视",
+          "url": "https://www.mvyxws.com/",
+          "desc": "多了解一点医学知识，健康就多一份保障"
+        },
+        {
+          "title": "默沙东诊疗手册",
+          "url": "https://www.msdmanuals.com/zh/",
+          "desc": "向全世界人民传播科学准确的医疗信息。"
+        }
+      ]
+    },
+    {
+      "name": "学历认证考试报名",
+      "tags": [
+        {
+          "title": "学信网",
+          "url": "https://www.chsi.com.cn/",
+          "desc": "中国高等教育学生信息网"
+        },
+        {
+          "title": "中国教育考试网",
+          "url": "http://www.neea.edu.cn/",
+          "desc": "考试资讯公示公告考试项目考试报名成绩查询证书查询考试研究"
+        },
+        {
+          "title": "学位网",
+          "url": "https://www.chinadegrees.cn/cn/",
+          "desc": "中国学位认证"
+        },
+        {
+          "title": "中国人事考试网",
+          "url": "http://www.cpta.com.cn/index.html",
+          "desc": "人力资源和社会保障部人事考试中心"
+        },
+        {
+          "title": "全国大学英语四、六级考试报名网",
+          "url": "http://cet-bm.neea.edu.cn/",
+          "desc": "教育部考试中心"
+        },
+        {
+          "title": "全国计算机等级考试",
+          "url": "http://ncre.neea.edu.cn/",
+          "desc": "教育部考试中心"
+        },
+        {
+          "title": "中小学教师资格考试",
+          "url": "http://ntce.neea.edu.cn/html1/folder/1507/1076-1.htm",
+          "desc": "教育部考试中心　"
+        },
+        {
+          "title": "普通话水平测试在线报名系统",
+          "url": "http://sxbm.cltt.org/pscweb/index.html",
+          "desc": "各个省份普通话在线报名网址"
+        },
+        {
+          "title": "国家公务员局",
+          "url": "http://www.scs.gov.cn/ksly/",
+          "desc": "公务员考试"
+        },
+        {
+          "title": "司法部国家司法考试中心",
+          "url": "http://www.moj.gov.cn/organization/node_gjsfkszx.html",
+          "desc": "中华人民共和国司法部"
+        },
+        {
+          "title": "财政部会计资格评价中心",
+          "url": "http://kzp.mof.gov.cn/",
+          "desc": "中华人民共和国财政部"
+        },
+        {
+          "title": "渡考网",
+          "url": "http://www.dukaow.com/",
+          "desc": "全国专业技术人员资格考试报名信息服务平台"
+        },
+        {
+          "title": "考研论坛",
+          "url": "http://bbs.kaoyan.com/",
+          "desc": "考研人的精神家园！"
+        },
+        {
+          "title": "保研论坛",
+          "url": "https://www.eeban.com/",
+          "desc": "全国最大保研学子交流社区"
+        },
+        {
+          "title": "考试吧",
+          "url": "http://www.exam8.com/",
+          "desc": "为在校学生、在职人员等多层次求知学习人士，提供56种考试咨询、资讯及培训服务。"
+        },
+        {
+          "title": "课件共享网",
+          "url": "http://www.kjgxw.com/",
+          "desc": "建造师课件免费 建造师课件共享网"
+        },
+        {
+          "title": "考试酷",
+          "url": "https://www.examcoo.com/index/ku",
+          "desc": "永久免费的电子作业与在线考试系统云平台"
+        },
+        {
+          "title": "高校论坛大全",
+          "url": "http://www.myubbs.com/",
+          "desc": "大学论坛大全,高校论坛,考研论坛,大学贴吧,大学排名"
+        }
+      ]
+    },
+    {
+      "name": "实习就业招聘资讯",
+      "tags": [
+        {
+          "title": "实习僧",
+          "url": "https://www.shixiseng.com/",
+          "desc": "实习_校园招聘_大学生求职招聘网站"
+        },
+        {
+          "title": "中华英才网",
+          "url": "http://campus.chinahr.com/",
+          "desc": "国内较早成立的专业招聘网站之一"
+        },
+        {
+          "title": "海投网",
+          "url": "https://www.haitou.cc/",
+          "desc": "为应届毕业生提供校园招聘会最新信息"
+        },
+        {
+          "title": "前程无忧",
+          "url": "https://www.51job.com/",
+          "desc": "中国具有广泛影响力的人力资源服务供应商"
+        },
+        {
+          "title": "猎聘",
+          "url": "https://www.liepin.com/",
+          "desc": "精英职业发展平台"
+        },
+        {
+          "title": "应届生求职网",
+          "url": "http://www.yingjiesheng.com/",
+          "desc": "中国领先的大学生求职网站"
+        },
+        {
+          "title": "智联招聘",
+          "url": "https://www.zhaopin.com/",
+          "desc": "凭借大数据和AI技术打造开放的人力资本生态"
+        },
+        {
+          "title": "职未来",
+          "url": "http://www.careerol.com/",
+          "desc": "海量行业岗位、求职技能、职场能力精品课程"
+        },
+        {
+          "title": "刺猬实习",
+          "url": "https://www.ciwei.net/internship",
+          "desc": "大学生实习校招找工作网申平台"
+        },
+        {
+          "title": "申请方",
+          "url": "https://www.applysquare.com/ceping-cn/career/introduction",
+          "desc": "职业测评_测试自己适合的行业"
+        },
+        {
+          "title": "才储APESK",
+          "url": "http://www.apesk.com/",
+          "desc": "各种经典性格测试、智力测试及岗位应用测试"
+        },
+        {
+          "title": "知页简历",
+          "url": "https://www.zhiyeapp.com/",
+          "desc": "专业简历制作工具，简历模板免费下载"
+        },
+        {
+          "title": "MoSeeker仟寻",
+          "url": "https://www.moseeker.com/",
+          "desc": "中国领先的人工智能招聘科技公司"
+        },
+        {
+          "title": "拉勾招聘",
+          "url": "https://www.lagou.com/",
+          "desc": "专业的互联网求职招聘网站"
+        },
+        {
+          "title": "数英网",
+          "url": "https://www.digitaling.com/",
+          "desc": "大中华区权威数字媒体及职业招聘社交平台"
+        },
+        {
+          "title": "西北工业大学就业信息网",
+          "url": "https://job.nwpu.edu.cn/home.do",
+          "desc": "西北工业大学学生职业发展指导服务中心"
+        }
+      ]
+    },
+    {
+      "name": "行业顶尖公司网申",
+      "tags": [
+        {
+          "title": "华陆科技",
+          "url": "http://www.chinahualueng.com/",
+          "desc": "原化工部第六设计院"
+        },
+        {
+          "title": "巴斯夫",
+          "url": "https://www.basf.com/cn/zh/careers.html",
+          "desc": "德国的化工企业，也是世界最大的化工厂之一。"
+        },
+        {
+          "title": "万华化学",
+          "url": "https://www.whchem.com/column/16/",
+          "desc": "全球化运营的化工新材料公司"
+        },
+        {
+          "title": "海康威视",
+          "url": "https://talent.hikvision.com/",
+          "desc": "领先的安防产品及行业解决方案提供商"
+        },
+        {
+          "title": "吉利",
+          "url": "http://zgh.com/recruitment/",
+          "desc": "集汽车整车、动力总成和关键零部件设计、研发、生产、销售和服务于一体"
+        },
+        {
+          "title": "海尔",
+          "url": "http://vta.maker.haier.net/client",
+          "desc": "全球领先的美好生活解决方案服务商"
+        },
+        {
+          "title": "罗氏",
+          "url": "https://www.roche.com/zh/careers/country/china.htm",
+          "desc": "全球制药和诊断领域的领导者"
+        },
+        {
+          "title": "京东",
+          "url": "https://zhaopin.jd.com/",
+          "desc": "科技（Technology）+产业（Industry）+生态（Ecosystem）"
+        },
+        {
+          "title": "华为",
+          "url": "https://career.huawei.com/",
+          "desc": "全球领先的ICT（信息与通信）基础设施和智能终端提供商"
+        },
+        {
+          "title": "京东方",
+          "url": "https://www.boe.com.cn/",
+          "desc": "为信息交互和人类健康提供智慧端口产品和专业服务的物联网公司"
+        },
+        {
+          "title": "CVTE视源",
+          "url": "http://campus.cvte.com/",
+          "desc": "液晶显示主控板卡和交互智能平板的设计、研发与销售"
+        },
+        {
+          "title": "富士康",
+          "url": "https://www.roche.com/zh/careers/country/china.htm",
+          "desc": "全球最大的电子产业科技制造服务商"
+        },
+        {
+          "title": "百度",
+          "url": "https://talent.baidu.com/",
+          "desc": "全球最大的中文搜索引擎、最大的中文网站"
+        },
+        {
+          "title": "腾讯",
+          "url": "https://join.qq.com/",
+          "desc": "中国最大的互联网综合服务提供商"
+        }
+      ]
+    },
+    {
+      "name": "字体下载图标设计",
+      "tags": [
+        {
+          "title": "iconfont",
+          "url": "https://www.iconfont.cn/",
+          "desc": "阿里巴巴矢量图标库"
+        },
+        {
+          "title": "ICONS8",
+          "url": "https://icons8.cn/",
+          "desc": "下载158k个免费图标 + 插图、照片和音乐"
+        },
+        {
+          "title": "VeryIcon",
+          "url": "https://www.veryicon.com/",
+          "desc": "Free SVG, PNG Icons, Vector Icons Search And Download"
+        },
+        {
+          "title": "Findicons",
+          "url": "https://findicons.com/",
+          "desc": "Free Icons and Icon packs | +500,000 icons to download"
+        },
+        {
+          "title": "Iconfinder",
+          "url": "https://www.iconfinder.com/",
+          "desc": "5,200,000+ free and premium vector icons"
+        },
+        {
+          "title": "GraphicRiver",
+          "url": "https://graphicriver.net/",
+          "desc": "Fonts, Logos &amp; Icons"
+        },
+        {
+          "title": "求字体网",
+          "url": "http://www.qiuziti.com/",
+          "desc": "提供中文和英文字体库下载、识别与预览"
+        },
+        {
+          "title": "模板王字库",
+          "url": "http://fonts.mobanwang.com/",
+          "desc": "字体下载，字库下载，免费下载字体，中文字体"
+        },
+        {
+          "title": "字魂网",
+          "url": "https://izihun.com/",
+          "desc": "商用字体下载，字体定制，在线免费字体下载"
+        },
+        {
+          "title": "字体下载网",
+          "url": "http://ziti.sozi.cn/",
+          "desc": "字体大全 字库下载 搜字体 搜字网"
+        },
+        {
+          "title": "16素材网",
+          "url": "https://www.16sucai.com/font/zhongwen/",
+          "desc": "中文字体 - 素材中国"
+        },
+        {
+          "title": "U钙网",
+          "url": "http://www.uugai.com/",
+          "desc": "免费logo在线制作-字体logo-logo设计"
+        },
+        {
+          "title": "LOGOA+",
+          "url": "http://www.logoaplus.com/",
+          "desc": "在线LOGO设计网"
+        },
+        {
+          "title": "LogoFree",
+          "url": "http://www.logofree.cn/",
+          "desc": "logo设计在线生成"
+        },
+        {
+          "title": "logo设计网",
+          "url": "http://www.logosheji.com/",
+          "desc": "智能logo在线制作工具"
+        },
+        {
+          "title": "LOGO设计网",
+          "url": "https://www.cnlogo8.com/",
+          "desc": "中国logo第一门户站"
+        },
+        {
+          "title": "标智客",
+          "url": "https://www.logomaker.com.cn/",
+          "desc": "免费logo设计生成在线制作神器"
+        },
+        {
+          "title": "LOGO圈",
+          "url": "http://www.logoquan.com/",
+          "desc": "LOGO设计欣赏_国外标志设计欣赏"
+        },
+        {
+          "title": "标点狗",
+          "url": "https://www.logoko.com.cn/",
+          "desc": "免费!LOGO设计,标志设计在线制作神器!"
+        }
+      ]
+    },
+    {
+      "name": "PPt插件模板教程",
+      "tags": [
+        {
+          "title": "OneKeyTools",
+          "url": "http://oktools.xyz/",
+          "desc": "PPt插件"
+        },
+        {
+          "title": "LvyhTools英豪工具箱",
+          "url": "https://addins.cn/yhtools/",
+          "desc": "第三方的Microsoft PowerPoint插件"
+        },
+        {
+          "title": "iSlide",
+          "url": "https://www.islide.cc/",
+          "desc": "让PPT设计简单起来"
+        },
+        {
+          "title": "第一PPT",
+          "url": "http://www.1ppt.com/",
+          "desc": "PPT模板_PPT模版免费下载_免费PPT模板下载"
+        },
+        {
+          "title": "PPT之家",
+          "url": "https://www.52ppt.com/",
+          "desc": "免费PPT模板下载和免费PPT素材下载"
+        },
+        {
+          "title": "办公资源网",
+          "url": "https://www.bangongziyuan.com/search/val-mianfei-type-0.html",
+          "desc": "免费PPT模板大全_精美免费PPT模板下载"
+        },
+        {
+          "title": "Focusky动画演示大师官网",
+          "url": "http://www.focusky.com.cn/",
+          "desc": "免费的PPT幻灯片、视频演示制作软件"
+        },
+        {
+          "title": "Servier Medical Art",
+          "url": "https://smart.servier.com/category/general-items/",
+          "desc": "PPt科研绘图素材"
+        },
+        {
+          "title": "叮当设计",
+          "url": "https://www.dingdangsheji.com/",
+          "desc": "PPT模板、PS设计素材免费下载"
+        },
+        {
+          "title": "锐普PPT",
+          "url": "http://www.rapidbbs.cn/",
+          "desc": "最精美的PPT作品、最丰富的PPT素材、最专业的PPT教程、最友好的PPT交流平台"
+        },
+        {
+          "title": "演界网",
+          "url": "http://pptman.yanj.cn/search-0-0-1.html",
+          "desc": "PPT模板 免费下载"
+        },
+        {
+          "title": "变色龙PPT",
+          "url": "https://www.ppt20.com/",
+          "desc": "国内原创PPT模板交易平台"
+        },
+        {
+          "title": "幻影网",
+          "url": "http://www.ppt920.com/",
+          "desc": "靠谱的PPT模板分享平台"
+        },
+        {
+          "title": "51PPT模板网",
+          "url": "http://www.51pptmoban.com/",
+          "desc": "幻灯片演示模板及素材下载"
+        },
+        {
+          "title": "PPT设计教程网",
+          "url": "http://www.pptfans.cn/",
+          "desc": "提供高质量的PPT教程和PPT模板下载"
+        },
+        {
+          "title": "优品PPT",
+          "url": "https://www.ypppt.com/",
+          "desc": "一个有情怀的免费PPT模板下载网站！"
+        },
+        {
+          "title": "逼格PPT",
+          "url": "http://www.tretars.com/",
+          "desc": "ppt模板_ppt下载_免费ppt_比格ppt"
+        },
+        {
+          "title": "HiPPTER",
+          "url": "http://www.hippter.com/",
+          "desc": "PPT模板图表等设计素材免费下载"
+        },
+        {
+          "title": "ppt课件网",
+          "url": "http://www.pptkj.net/",
+          "desc": "免费ppt课件下载"
+        }
+      ]
+    },
+    {
+      "name": "免费图片视觉盛宴",
+      "tags": [
+        {
+          "title": "360°航拍全景",
+          "url": "https://airpano.org.cn/",
+          "desc": "全球360°虚拟游览，地球上最有趣的地方照片"
+        },
+        {
+          "title": "指尖上",
+          "url": "https://www.zhijianshang.com/",
+          "desc": "全球全景360VR"
+        },
+        {
+          "title": "重现化学",
+          "url": "http://envisioningchemistry.cn/",
+          "desc": "“美丽化学”项目的续集"
+        },
+        {
+          "title": "天空之城",
+          "url": "https://www.skypixel.com/",
+          "desc": "全球航拍爱好者和专业摄影师的作品社区"
+        },
+        {
+          "title": "FreeImages",
+          "url": "https://www.freeimages.com/cn#",
+          "desc": "探索 300,000 多张免费素材和免版税图像"
+        },
+        {
+          "title": "Pixabay",
+          "url": "https://pixabay.com/zh/",
+          "desc": "超过1.9百万张正版优质图片和视频素材"
+        },
+        {
+          "title": "wallhaven",
+          "url": "https://wallhaven.cc/",
+          "desc": "Awesome Wallpapers"
+        },
+        {
+          "title": "WallpaperUP",
+          "url": "https://www.wallpaperup.com/",
+          "desc": "Popular wallpapers"
+        },
+        {
+          "title": "Pexels",
+          "url": "https://www.pexels.com/zh-cn/",
+          "desc": "免费素材图片"
+        },
+        {
+          "title": "Veer图库",
+          "url": "https://www.veer.com/",
+          "desc": "正版商业高清图片素材网站"
+        },
+        {
+          "title": "Unsplash",
+          "url": "https://unsplash.com/",
+          "desc": "Beautiful Free Images &amp; Pictures"
+        },
+        {
+          "title": "Videezy",
+          "url": "https://www.videezy.com/",
+          "desc": "Free Stock Footage Videos, 4k After Effects Templates and More!"
+        },
+        {
+          "title": "Brusheezy",
+          "url": "https://www.brusheezy.com/",
+          "desc": "Free Photoshop Brushes"
+        },
+        {
+          "title": "Streetwill",
+          "url": "http://streetwill.co/",
+          "desc": "Free Hi-Res Photos."
+        },
+        {
+          "title": "Magdeleine",
+          "url": "https://magdeleine.co/browse/",
+          "desc": "Free high-quality stock photos for your inspiration"
+        },
+        {
+          "title": "Cupcake",
+          "url": "https://cupcake.nilssonlee.se/",
+          "desc": "Royalty free images for commercial use"
+        },
+        {
+          "title": "フリー写真素材フォトック",
+          "url": "https://www.photock.jp/",
+          "desc": "無料・商用利用可・クレジット表記不要"
+        },
+        {
+          "title": "Everypixel",
+          "url": "https://www.everypixel.com/",
+          "desc": "Stock Image Search Engine - More Than 50 Best Sources"
+        },
+        {
+          "title": "PNG images",
+          "url": "http://pngimg.com/",
+          "desc": "100 000+ Free PNG images"
+        },
+        {
+          "title": "Kaboompics",
+          "url": "https://kaboompics.com/",
+          "desc": "Free stock photos"
+        },
+        {
+          "title": "Life of Pix",
+          "url": "https://www.lifeofpix.com/",
+          "desc": "Free high resolution photography"
+        },
+        {
+          "title": "Fancycrave",
+          "url": "https://fancycrave.com/",
+          "desc": "Make Your Freelancing Life Easier."
+        },
+        {
+          "title": "Gratisography",
+          "url": "https://gratisography.com/",
+          "desc": "Free High Resolution Stock Photos and Images"
+        },
+        {
+          "title": "DesignersPics",
+          "url": "http://www.designerspics.com/",
+          "desc": "Free Photographs for your commercial and personal works"
+        },
+        {
+          "title": "picjumbo",
+          "url": "https://picjumbo.com/",
+          "desc": "Free Stock Photos"
+        },
+        {
+          "title": "JESHOOTS",
+          "url": "https://jeshoots.com/",
+          "desc": "Free Stock Photos"
+        },
+        {
+          "title": "Free Images Bank",
+          "url": "https://en.freejpg.com.ar/",
+          "desc": "Free Image Search"
+        },
+        {
+          "title": "StockSnap",
+          "url": "https://stocksnap.io/",
+          "desc": "Free Stock Photos (CC0)"
+        },
+        {
+          "title": "Free Images",
+          "url": "https://www.goodfreephotos.com/",
+          "desc": "Free Photos"
+        },
+        {
+          "title": "Stockvault",
+          "url": "https://www.stockvault.net/",
+          "desc": "Free Stock Photos | Free Images and Vectors"
+        },
+        {
+          "title": "The Stocks 2",
+          "url": "http://thestocks.im/",
+          "desc": "Best royalty free stock photos, videos, mockups, icons and fonts!"
+        },
+        {
+          "title": "Free Stock Photos",
+          "url": "https://publicdomainarchive.com/",
+          "desc": "Vintage and Modern Free Public Domain Images Archive Download - Public Domain Images"
+        },
+        {
+          "title": "AllTheFreeStock.com",
+          "url": "https://allthefreestock.com/",
+          "desc": "Free Stock Images &amp; Videos"
+        }
+      ]
+    },
+    {
+      "name": "海量其他素材搜集",
+      "tags": [
+        {
+          "title": "爱给网",
+          "url": "https://www.aigei.com/",
+          "desc": "音效配乐、3D模型、视频素材、游戏素材"
+        },
+        {
+          "title": "素材兔",
+          "url": "https://www.sucaitu.cc/",
+          "desc": "独一无二的干货聚集"
+        },
+        {
+          "title": "觅元素",
+          "url": "http://www.51yuansu.com/",
+          "desc": "设计元素的免费下载网站_免抠素材"
+        },
+        {
+          "title": "绘艺素材",
+          "url": "https://www.huiyi8.com/",
+          "desc": "国内优质的素材站点"
+        },
+        {
+          "title": "小森平的免费下载音效",
+          "url": "https://taira-komori.jpn.org/freesoundcn.html",
+          "desc": "在日本制作效果音的小森平"
+        },
+        {
+          "title": "5SING",
+          "url": "http://5sing.kugou.com/index.html",
+          "desc": "中国原创音乐基地"
+        },
+        {
+          "title": "配乐网",
+          "url": "http://www.peiyue.com/",
+          "desc": "配乐素材,音效素材,免费配乐素材"
+        },
+        {
+          "title": "天韵之声配音网",
+          "url": "https://www.tyzspy.com/",
+          "desc": "专题配音|广告配音|宣传片配音网站"
+        },
+        {
+          "title": "Soundsnap Sound Library",
+          "url": "https://www.soundsnap.com/",
+          "desc": "Download Sound Effects"
+        },
+        {
+          "title": "音笑网",
+          "url": "http://www.yisell.com/",
+          "desc": "音效网-音效素材-声音素材-音效下载-配音素材-背景音乐素材"
+        },
+        {
+          "title": "站长素材",
+          "url": "https://sc.chinaz.com/",
+          "desc": "分享综合设计素材的平台"
+        },
+        {
+          "title": "电脑学习",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDU3NDUzNw==&mid=503545592&idx=1&sn=e8341841db47b5973a5c10263a6a6ccb&chksm=0412f6de33657fc8cd15f4920d42962b688dae34ffd2a1fced2744fba92a4438b0584bb8cc39&mpshare=1&scene=23&srcid=0217uNOqZgWtf4u095JfNbZn&sharer_sharetime=1613535860306&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "素材模板（PS、AE、PR、office）"
+        },
+        {
+          "title": "花瓣网",
+          "url": "https://huaban.com/",
+          "desc": "搜索、发现设计灵感、设计素材"
+        },
+        {
+          "title": "懒人图库",
+          "url": "https://www.lanrentuku.com/",
+          "desc": "矢量图,JS代码,网页素材 - 学会偷懒，懒出境界！"
+        },
+        {
+          "title": "DownSub",
+          "url": "https://downsub.com/",
+          "desc": "从Youtube，Viki，Viu，Vlive等下载字幕！"
+        },
+        {
+          "title": "Distill",
+          "url": "https://wedistill.io/",
+          "desc": "Free HD Stock Video &amp; HD Video Clips"
+        },
+        {
+          "title": "Free videos clips",
+          "url": "https://mazwai.com/",
+          "desc": "Free Stock Video Footage HD Royalty"
+        },
+        {
+          "title": "FootageCrate",
+          "url": "https://footagecrate.com/",
+          "desc": "Free Video Effects - The Best HD &amp; 4K VFX"
+        },
+        {
+          "title": "monzoom",
+          "url": "https://www.monzoom.com/",
+          "desc": "Free 4K and HD Motion Video Assets"
+        },
+        {
+          "title": "千库网",
+          "url": "https://588ku.com/",
+          "desc": "免费png图片背景素材下载,做设计不抠图"
+        },
+        {
+          "title": "MAKA",
+          "url": "https://www.maka.im/",
+          "desc": "免费设计模板素材图片_在线平面设计工具"
+        },
+        {
+          "title": "千图网",
+          "url": "https://www.58pic.com/",
+          "desc": "免费设计图片素材网站-正版图库免费设计素材"
+        },
+        {
+          "title": "UI",
+          "url": "https://www.ui.cn/",
+          "desc": "UI中国用户体验设计平台"
+        },
+        {
+          "title": "PS家园网",
+          "url": "https://www.psjia.com/",
+          "desc": "Photoshop教程|笔刷|滤镜|PS素材|PS教程"
+        },
+        {
+          "title": "92素材网",
+          "url": "http://www.92sucai.com/",
+          "desc": "AE、会声会影模板、视频素材、高清实拍音效"
+        },
+        {
+          "title": "优设网",
+          "url": "https://www.uisdc.com/",
+          "desc": "看设计文章，学软件教程，找灵感素材"
+        },
+        {
+          "title": "ZCOOL站酷",
+          "url": "https://www.zcool.com.cn/",
+          "desc": "设计师互动平台"
+        },
+        {
+          "title": "视频剪辑技术交流网",
+          "url": "http://www.dvedit.cn/forum.php",
+          "desc": "编辑软件|视频制作|视频素材|电子相册|"
+        },
+        {
+          "title": "会声会影中文官网",
+          "url": "https://www.huishenghuiying.com.cn/mubanjiaocheng/",
+          "desc": "会声会影模板免费下载"
+        }
+      ]
+    },
+    {
+      "name": "网站源码",
+      "tags": [
+        {
+          "title": "织梦模板大全",
+          "url": "http://dedecms.codesdq.com/index.html",
+          "desc": "织梦模板_dedecms模板_织梦模板下载_dedecms企业模板"
+        },
+        {
+          "title": "模板之家",
+          "url": "http://www.cssmoban.com/",
+          "desc": "网页模板,网站模板,DIV+CSS模板,企业网站模板下载"
+        },
+        {
+          "title": "站长下载",
+          "url": "http://down.chinaz.com/",
+          "desc": "源码_网站源码_源码下载_源码之家"
+        },
+        {
+          "title": "nn源码网",
+          "url": "http://www.nn3.cn/",
+          "desc": "免费模板下载|ASP源码下载|PHP源码|NET源码|CMS模板|商业源码下载|源码论坛|网站源码 源码之家 源码网站 源码论坛 源码网 网站源码下载 免费源码"
+        },
+        {
+          "title": "Bootstrap中文网",
+          "url": "https://www.bootcss.com/",
+          "desc": "简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。"
+        },
+        {
+          "title": "jQuery插件库",
+          "url": "https://www.jq22.com/index.aspx",
+          "desc": "收集最全最新最好的jQuery插件"
+        },
+        {
+          "title": "GrapesJS",
+          "url": "https://grapesjs.com/",
+          "desc": "Free and Open Source Web Builder Framework"
+        }
+      ]
+    },
+    {
+      "name": "免费图床",
+      "tags": [
+        {
+          "title": "晨风图床",
+          "url": "https://cdnyunjs.com/",
+          "desc": "永久免费提供全球CDN加速服务"
+        },
+        {
+          "title": "ImgURL",
+          "url": "https://imgurl.org/",
+          "desc": "免费图片外链工具"
+        },
+        {
+          "title": "SM.MS",
+          "url": "https://sm.ms/",
+          "desc": "Simple Free Image Hosting"
+        },
+        {
+          "title": "路过图床",
+          "url": "https://imgchr.com/",
+          "desc": "免费图片上传, 专业图片外链, 免费公共图床"
+        },
+        {
+          "title": "Postimages",
+          "url": "https://postimages.org/",
+          "desc": "免费图片托管 / 图片上传"
+        },
+        {
+          "title": "跬步图床",
+          "url": "https://img.kuibu.net/",
+          "desc": "每日上传50张，单张图片不能超过5M"
+        }
+      ]
+    },
+    {
+      "name": "普通搜索",
+      "tags": [
+        {
+          "title": "百度",
+          "url": "https://www.baidu.com/",
+          "desc": "全球最大的中文搜索引擎"
+        },
+        {
+          "title": "华度",
+          "url": "http://www.22hd.com/",
+          "desc": "全球语言自动翻译，270多个引擎自由切换"
+        },
+        {
+          "title": "eGouz",
+          "url": "https://www.egouz.com/search/",
+          "desc": "国内、国外搜索引擎网址导航"
+        },
+        {
+          "title": "虫部落·快搜",
+          "url": "https://search.chongbuluo.com/",
+          "desc": "搜索快人一步"
+        },
+        {
+          "title": "必应",
+          "url": "https://cn.bing.com/",
+          "desc": "国际领先的搜索引擎"
+        },
+        {
+          "title": "搜狗",
+          "url": "https://www.sogou.com/",
+          "desc": "全球第三代互动式搜索引擎"
+        },
+        {
+          "title": "谷歌",
+          "url": "https://search.ahau.cf/",
+          "desc": "世界上最大的搜索引擎之一"
+        },
+        {
+          "title": "360",
+          "url": "https://www.so.com/",
+          "desc": "安全、精准、可信赖的新一代搜索引擎"
+        },
+        {
+          "title": "优聚集",
+          "url": "https://ujuji.com/",
+          "desc": "既行好事，也问前程"
+        },
+        {
+          "title": "神马",
+          "url": "https://quark.sm.cn/",
+          "desc": "专注于移动互联网的搜索引擎"
+        },
+        {
+          "title": "CSDN",
+          "url": "https://www.csdn.net/",
+          "desc": "原创博客、精品问答、职业培训、技术论坛、资源下载等"
+        },
+        {
+          "title": "MBA智库",
+          "url": "https://www.mbalib.com/",
+          "desc": "管理者专业学习成长平台"
+        },
+        {
+          "title": "多吉",
+          "url": "https://www.dogedoge.com/",
+          "desc": "DogeDoge检索，不追踪，不误导。"
+        },
+        {
+          "title": "头条",
+          "url": "https://so.toutiao.com/",
+          "desc": "不只是搜新闻"
+        },
+        {
+          "title": "搜索引擎网站大全",
+          "url": "http://www.eryi.org/",
+          "desc": "全球搜索引擎大全"
+        },
+        {
+          "title": "联合",
+          "url": "https://www.gobaidugle.com/",
+          "desc": "多搜多重对比聚合联合搜索引擎"
+        },
+        {
+          "title": "轻略搜索",
+          "url": "https://search.qinggl.com/",
+          "desc": "垂直搜索引擎大全 - 聚合搜索"
+        },
+        {
+          "title": "密迹",
+          "url": "https://mijisou.com/",
+          "desc": "一个不追踪你的搜索引擎"
+        },
+        {
+          "title": "中国搜索",
+          "url": "http://www.chinaso.com/",
+          "desc": "国家权威搜索引擎"
+        },
+        {
+          "title": "telegram",
+          "url": "http://www.sssoou.com/",
+          "desc": "可以搜索电影、网盘、教程等资源"
+        },
+        {
+          "title": "Yandex",
+          "url": "https://yandex.com/",
+          "desc": "俄罗斯最大搜索引擎"
+        },
+        {
+          "title": "ウェブ検索",
+          "url": "https://smp-search.fresheye.com/",
+          "desc": "日本Fresheye搜索引擎"
+        },
+        {
+          "title": "WebCrawler Search",
+          "url": "https://www.webcrawler.com/",
+          "desc": "网络爬虫搜索"
+        },
+        {
+          "title": "ཡོངས་འཛིན་འཚོལ་བཤེར།",
+          "url": "https://www.yongzin.com/",
+          "desc": "YongZin云藏|藏文搜索引擎"
+        },
+        {
+          "title": "搜网",
+          "url": "http://www.sowang.com/link.htm",
+          "desc": "中文搜索引擎指南网"
+        },
+        {
+          "title": "Magi",
+          "url": "https://magi.com/",
+          "desc": "用AI梳理互联网的知识引擎"
+        },
+        {
+          "title": "Qwant",
+          "url": "https://www.qwant.com/",
+          "desc": "尊重您隐私的搜索引擎"
+        },
+        {
+          "title": "soPDF",
+          "url": "http://www.sopdf.com/",
+          "desc": "PDF Search Engine"
+        },
+        {
+          "title": "音源网",
+          "url": "https://www.vsti.cn/",
+          "desc": "专业的音源搜索引擎"
+        },
+        {
+          "title": "无讼案例",
+          "url": "https://www.itslaw.com/home",
+          "desc": "随时随地快速检索案例法规"
+        },
+        {
+          "title": "1024搜索",
+          "url": "https://1024ss.com/",
+          "desc": "程序员专用搜索引擎!"
+        },
+        {
+          "title": "极客搜索",
+          "url": "https://s.geekbang.org/",
+          "desc": "针对极客邦科技的全站内容资源的轻量搜索引擎"
+        },
+        {
+          "title": "SimilarSiteSearch",
+          "url": "https://www.similarsitesearch.com/cn/",
+          "desc": "寻找相似网站的最好工具"
+        },
+        {
+          "title": "Our World in Data",
+          "url": "https://ourworldindata.org/",
+          "desc": "数据世界"
+        },
+        {
+          "title": "World Bank Open Data | Data",
+          "url": "https://data.worldbank.org/",
+          "desc": "Free and open access to global development data"
+        }
+      ]
+    },
+    {
+      "name": "网盘搜索",
+      "tags": [
+        {
+          "title": "懒盘搜索",
+          "url": "https://lzpan.com/",
+          "desc": "懒盘搜索聚合"
+        },
+        {
+          "title": "优聚集",
+          "url": "http://hao.lzpan.com/#/",
+          "desc": "联合优质网站"
+        },
+        {
+          "title": "盘飞飞",
+          "url": "https://www.panfeifei.com/",
+          "desc": "盘搜搜,网盘搜索,资源搜索,大圣盘,大力盘,盘多多,罗马盘"
+        },
+        {
+          "title": "BT和PT站",
+          "url": "https://www.yuque.com/njuguidebook/zijingpt/pt_collection#yvv7",
+          "desc": "常见的高校教育网BT和开放PT站"
+        },
+        {
+          "title": "网盘搜索",
+          "url": "http://wp.soshoulu.com/",
+          "desc": "百度网盘搜索神器"
+        },
+        {
+          "title": "万网搜",
+          "url": "https://www.wanwangsou.com/",
+          "desc": "资源搜索聚合神器"
+        },
+        {
+          "title": "超能搜",
+          "url": "https://www.chaonengsou.com/",
+          "desc": "百度网盘搜索神器"
+        },
+        {
+          "title": "玉白盘",
+          "url": "https://www.yubaipan.com/#/",
+          "desc": "网盘搜索引擎"
+        },
+        {
+          "title": "Sov5搜索",
+          "url": "https://www.sov5.cn/",
+          "desc": "百度网盘搜索"
+        },
+        {
+          "title": "鸟啦搜",
+          "url": "https://www.niaola.com/",
+          "desc": "优秀的百度云网盘资源下载"
+        },
+        {
+          "title": "面包树",
+          "url": "https://mianbaoshu.cc/",
+          "desc": "云盘精灵"
+        },
+        {
+          "title": "磁力猫",
+          "url": "http://clm0.cc/?from=clm.la",
+          "desc": "磁力猫常用地址 clm.la 或者 cilimao.app 请牢记！"
+        },
+        {
+          "title": "蓝奏",
+          "url": "https://pc.woozooo.com/",
+          "desc": "云存储"
+        },
+        {
+          "title": "网盘直链下载助手",
+          "url": "https://www.baiduyun.wiki/",
+          "desc": "一个免费开源的百度网盘下载助手"
+        },
+        {
+          "title": "百度解析二版本-破解窝",
+          "url": "http://www.pojiewo.com/baidu",
+          "desc": "百度网盘在线解析 用前必看，必须修改UA"
+        },
+        {
+          "title": "爱扒趣",
+          "url": "https://www.zyboe.com/",
+          "desc": "磁力搜索，simplecd，网盘资源，bt种子聚合搜索 - SimpleCD,ed2000聚合站"
+        },
+        {
+          "title": "爱搜资源助手",
+          "url": "http://www.aisouziyuan.com/",
+          "desc": "自动为您寻找百度微云网盘密码，自动检测资源有效性"
+        },
+        {
+          "title": "雷鸟下载",
+          "url": "http://www.thunderbird.bar/1684667",
+          "desc": "基于多资源超线程技术的下载软件，针对各类网盘做了下载优化"
+        },
+        {
+          "title": "KinhDown",
+          "url": "https://kinhdown.kinh.cc/",
+          "desc": "加速！永无止境"
+        }
+      ]
+    },
+    {
+      "name": "文献期刊专利检索",
+      "tags": [
+        {
+          "title": "大木虫学术导航",
+          "url": "http://www.4243.net/",
+          "desc": "Google学术搜索_谷歌学术网址"
+        },
+        {
+          "title": "虫部落·学术搜索",
+          "url": "https://scholar.chongbuluo.com/",
+          "desc": "站在巨人的肩膀上"
+        },
+        {
+          "title": "科研学术搜索",
+          "url": "https://so.sciencesoft.cn/",
+          "desc": "为你的科研助力"
+        },
+        {
+          "title": "学术公众号数据库",
+          "url": "http://rank.linkresearcher.com/",
+          "desc": "追踪社交媒体上的学术热点"
+        },
+        {
+          "title": "ScholarMate",
+          "url": "https://sie.scholarmate.com/common/inslist?locale=zh_CN",
+          "desc": "科研之友机构版"
+        },
+        {
+          "title": "文献部落",
+          "url": "http://459.org/",
+          "desc": "一站搞定文献下载"
+        },
+        {
+          "title": "SpecialSci",
+          "url": "http://v2017.specialsci.cn/",
+          "desc": "国道特色专题数据库"
+        },
+        {
+          "title": "学术导航",
+          "url": "https://www.xsdh.org/",
+          "desc": "科研人专属的网址导航"
+        },
+        {
+          "title": "SCI学术导航",
+          "url": "https://www.sci111.com/",
+          "desc": "Google学术（镜像）、SCI-hub网址、科研资源 - 为您的科研加油！"
+        },
+        {
+          "title": "格桑花学术导航",
+          "url": "http://www.20009.net/",
+          "desc": "谷歌学术_Google学术搜索"
+        },
+        {
+          "title": "开心学术导航",
+          "url": "https://kxys.cc/",
+          "desc": "Google学术搜索|SCI-HUB网址|谷歌学术搜索"
+        },
+        {
+          "title": "龙猫学术导航",
+          "url": "http://www.6453.net/",
+          "desc": "Google学术搜索|SCI-HUB网址|谷歌学术搜索"
+        },
+        {
+          "title": "X-MOL",
+          "url": "https://www.x-mol.com/",
+          "desc": "科学知识平台"
+        },
+        {
+          "title": "Papers With Code",
+          "url": "https://www.paperswithcode.com/",
+          "desc": "The latest in Machine Learning"
+        },
+        {
+          "title": "欧美学位论文集成发现系统",
+          "url": "http://www.oadds.cn/",
+          "desc": "主要收录了来自欧美国家 2,500 多所知名院校的优秀博硕学位论文"
+        },
+        {
+          "title": "科研通",
+          "url": "https://www.ablesci.com/",
+          "desc": "文献互助平台"
+        },
+        {
+          "title": "谷歌学术镜像",
+          "url": "https://ac.scmor.com/",
+          "desc": "Google学术搜索导航@思谋学术"
+        },
+        {
+          "title": "谷歌学术镜像",
+          "url": "http://scholar.hedasudi.com/",
+          "desc": "Google镜像站"
+        },
+        {
+          "title": "爱思搜索",
+          "url": "https://search.essclick.com/",
+          "desc": "让科研更精彩！"
+        },
+        {
+          "title": "百度学术",
+          "url": "https://xueshu.baidu.com/",
+          "desc": "集成海量学术资源，融合人工智能、深度学习、大数据分析等技术"
+        },
+        {
+          "title": "思谷学术",
+          "url": "https://siguso.com/google/",
+          "desc": "谷歌学术镜像_Google镜像_Sci-Hub导航"
+        },
+        {
+          "title": "文献小镇",
+          "url": "http://www.sci-hub.ac.cn/",
+          "desc": "sci-hub网址_SCIHUB"
+        },
+        {
+          "title": "51Scihub学术导航",
+          "url": "http://www.51scihub.com/",
+          "desc": "提供sci-hub网址 ncbi pubmed Google学术搜索镜像导航服务"
+        },
+        {
+          "title": "搞科研导航",
+          "url": "http://www.gaokeyan.com/",
+          "desc": "一个专为科研学术人员设计的导航网站，这里是科研的开始"
+        },
+        {
+          "title": "SciHub科研学术网址导航",
+          "url": "https://www.scihub.net.cn/",
+          "desc": "SciHub科研学术网址导航"
+        },
+        {
+          "title": "Sci-Hub追踪",
+          "url": "https://sci-hub.41610.org/",
+          "desc": "Sci-Hub可用网址追踪"
+        },
+        {
+          "title": "企鹅论文",
+          "url": "https://doi.qqsci.com/",
+          "desc": "比Sci-Hub更好用的免费论文下载网站！【永久免费！】"
+        },
+        {
+          "title": "柠檬文献网",
+          "url": "http://sci-hub.fan/",
+          "desc": "SCI-HUB丨scihub最新可用网址"
+        },
+        {
+          "title": "Sci-Hub",
+          "url": "https://sci-hub.mksa.top/",
+          "desc": "the first pirate website in the world to provide mass and public access to tens of millions of research papers"
+        },
+        {
+          "title": "Sci-Hub.tw.Cn",
+          "url": "https://sci-hub.tw.cn/",
+          "desc": "文献检索免费下载"
+        },
+        {
+          "title": "小木虫学术导航",
+          "url": "http://www.xiaomuchong.net/",
+          "desc": "谷歌学术_SCI-HUB网址"
+        },
+        {
+          "title": "文献下载导航",
+          "url": "http://www.489.org/",
+          "desc": "Google学术,文献下载,"
+        },
+        {
+          "title": "科研干货导航",
+          "url": "http://www.9312.net/",
+          "desc": "谷歌学术_Google学术搜索"
+        },
+        {
+          "title": "熊猫学术",
+          "url": "https://panda321.com/",
+          "desc": "学术导航"
+        },
+        {
+          "title": "中国知网",
+          "url": "https://www.cnki.net/",
+          "desc": "学术文献统一检索、统一导航、在线阅读和下载服务"
+        },
+        {
+          "title": "万方数据",
+          "url": "http://www.wanfangdata.com.cn/index.html",
+          "desc": "集信息内容管理解决方案与知识服务为一体的综合信息内容服务提供商"
+        },
+        {
+          "title": "ScienceDirect",
+          "url": "https://www.sciencedirect.com/",
+          "desc": "Science, health and medical journals, full text articles and books."
+        },
+        {
+          "title": "纳米人",
+          "url": "http://www.nanoer.net/",
+          "desc": "为快意平等的科研"
+        },
+        {
+          "title": "PubMedPro",
+          "url": "https://www.pubmed.pro/home",
+          "desc": "可以显示IF影响因子的文献检索网站"
+        },
+        {
+          "title": "MedicGo",
+          "url": "https://www.medicgo.org/",
+          "desc": "Cut through the clutter"
+        },
+        {
+          "title": "Gycc",
+          "url": "https://www.gycc.com/",
+          "desc": "GYCC是个学术搜索引擎。新功能开发测试中。"
+        },
+        {
+          "title": "谷粉学术",
+          "url": "https://gfsoso.99lb.net/",
+          "desc": "sci-hub、知网搜索、专利查询"
+        },
+        {
+          "title": "iData",
+          "url": "https://www.cn-ki.net/",
+          "desc": "知识检索"
+        },
+        {
+          "title": "Glgoo学术搜索",
+          "url": "https://gg.xueshu5.com/",
+          "desc": "是Glgoo不是Google噢"
+        },
+        {
+          "title": "Web of Science",
+          "url": "http://www.webofknowledge.com/",
+          "desc": "全球最大规模的出版商中立引文索引和研究情报平台"
+        },
+        {
+          "title": "世界数字图书馆主页",
+          "url": "https://www.wdl.org/zh/",
+          "desc": "以多语种形式免费提供源于世界各地各文化的重要原始材料。"
+        },
+        {
+          "title": "文津搜索",
+          "url": "http://find.nlc.cn/",
+          "desc": "整合了国家图书馆和地方图书馆的数字搜索引擎。"
+        },
+        {
+          "title": "全国图书馆参考咨询联盟",
+          "url": "http://www.ucdrs.superlib.net/",
+          "desc": "图书期刊报纸学位论文会议论文专利标准音视频科技报告"
+        },
+        {
+          "title": "晨曦科技团队数字图书馆",
+          "url": "https://31sanyi.neocities.org/",
+          "desc": "免费提供知网，万方等中英文，医学等等数据库入口！！！"
+        },
+        {
+          "title": "Open Access Library (OALib)",
+          "url": "https://www.oalib.com/",
+          "desc": "基于一个开放存取的元数据库的搜索引擎"
+        },
+        {
+          "title": "DOAJ",
+          "url": "https://doaj.org/",
+          "desc": "Directory of Open Access Journals"
+        },
+        {
+          "title": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "desc": "National Center for Biotechnology Information"
+        },
+        {
+          "title": "PubMed文献数据库",
+          "url": "http://pubmed.cn/",
+          "desc": "提供生物医学方面的论文文献搜索服务"
+        },
+        {
+          "title": "晟斯医学ShengSci",
+          "url": "https://www.shengsci.com/tool/",
+          "desc": "医学工具，智库资源"
+        },
+        {
+          "title": "中国科学文献服务系统",
+          "url": "http://sciencechina.cn/",
+          "desc": "中国科学院文献情报中心"
+        },
+        {
+          "title": "中国科讯",
+          "url": "http://stpaper.cn/",
+          "desc": "基于移动互联网的中国科学院知识服务品牌"
+        },
+        {
+          "title": "国家自然科学基金共享服务网",
+          "url": "http://output.nsfc.gov.cn/",
+          "desc": "提供资助项目、结题项目、项目成果的检索与统计，提供结题报告的全文浏览"
+        },
+        {
+          "title": "中国工程科技知识中心",
+          "url": "http://www.ckcest.cn/home/",
+          "desc": "工程科技领域信息汇聚、数据挖掘和知识服务中心"
+        },
+        {
+          "title": "专利之星检索系统",
+          "url": "http://cprs.patentstar.com.cn/",
+          "desc": "国家知识产权局中国专利信息中心"
+        },
+        {
+          "title": "专利检索及分析",
+          "url": "http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiIndex.shtml",
+          "desc": "国家知识产权局"
+        },
+        {
+          "title": "专利信息服务平台",
+          "url": "http://search.cnipr.com/",
+          "desc": "知识产权出版社有限责任公司"
+        },
+        {
+          "title": "中国专利下载",
+          "url": "https://www.drugfuture.com/cnpat/cn_patent.asp",
+          "desc": "免费下载中国1985年至今的所有专利说明书。"
+        },
+        {
+          "title": "润桐RainPat专利检索",
+          "url": "https://www.rainpat.com/",
+          "desc": "知识产权大数据调查官"
+        },
+        {
+          "title": "佰腾网",
+          "url": "https://www.baiten.cn/",
+          "desc": "查专利就上佰腾网"
+        },
+        {
+          "title": "大为innojoy",
+          "url": "http://www.innojoy.com/search/index.html",
+          "desc": "专利搜索引擎"
+        },
+        {
+          "title": "智库观点",
+          "url": "https://view.ckcest.cn/Home/Index",
+          "desc": "国家工业信息安全发展研究中心 微信公众号 知领APP"
+        },
+        {
+          "title": "80图书馆",
+          "url": "http://www.80lib.com/user/free",
+          "desc": "免费文献资源"
+        },
+        {
+          "title": "学术之家",
+          "url": "https://www.xs-zj.com/",
+          "desc": "免费论文下载中心"
+        },
+        {
+          "title": "免费论文下载中心",
+          "url": "http://www.hi138.com/",
+          "desc": "为您提供各行业论文下载"
+        }
+      ]
+    },
+    {
+      "name": "学术会议在线查询",
+      "tags": [
+        {
+          "title": "AEIC学术交流中心",
+          "url": "https://www.keoaeic.org/",
+          "desc": "学术会议网"
+        },
+        {
+          "title": "蔻享",
+          "url": "https://www.koushare.com/",
+          "desc": "学术、课程、培训、科普、访谈、科技沙龙等视频直播或录播"
+        },
+        {
+          "title": "知领直播",
+          "url": "http://live.ckcest.cn/open/pc",
+          "desc": "学术会议直播_中国工程科技知识中心"
+        },
+        {
+          "title": "中国学术会议网",
+          "url": "http://conf.cnki.net/",
+          "desc": "收录最全最新的国际国内各类学术会议学术会议信息发布 在线审稿系统"
+        },
+        {
+          "title": "艾会网",
+          "url": "https://www.aconf.cn/",
+          "desc": "学术会议一站式解决方案"
+        },
+        {
+          "title": "百格活动",
+          "url": "https://www.bagevent.com/eventlist.html?f=1",
+          "desc": "发现活动"
+        },
+        {
+          "title": "活动家会议网",
+          "url": "https://www.huodongjia.com/",
+          "desc": "专业会议查询与报名服务营销平台"
+        },
+        {
+          "title": "学术会议搜索",
+          "url": "http://www.searchconf.net/",
+          "desc": "按照学科分类检索IEEE官方会议ACM官方会议CCF分类会议提交会议"
+        },
+        {
+          "title": "依米学术会议",
+          "url": "http://www.scievent.com/events/",
+          "desc": "互联网+学术会议云平台"
+        },
+        {
+          "title": "艾思学术",
+          "url": "https://www.ais.cn/goodMeet",
+          "desc": "学术交流征稿_学术会议在线"
+        },
+        {
+          "title": "会道网",
+          "url": "https://www.acacon.cn/",
+          "desc": "社科学术信息平台"
+        },
+        {
+          "title": "赛查查",
+          "url": "https://www.huixx.cn/",
+          "desc": "会查查-查协会_查展会_查会议_查比赛"
+        },
+        {
+          "title": "爱爱医医学会议频道",
+          "url": "http://huiyi.iiyi.com/",
+          "desc": "医学会议，学术会议"
+        },
+        {
+          "title": "美迪康",
+          "url": "https://www.medmeeting.org/",
+          "desc": "缘起Medical Conference医学学术会议"
+        },
+        {
+          "title": "新医讯会议平台",
+          "url": "http://nsdk.xyxun.top/live/pc/index?liveId=595599&shareuid=0",
+          "desc": "最新医学知识，助您成长"
+        },
+        {
+          "title": "Upcoming Conference",
+          "url": "http://www.ourglocal.com/",
+          "desc": "Academic Conference Publishing System"
+        },
+        {
+          "title": "Academic",
+          "url": "http://www.academic.net/",
+          "desc": "International Academic Conferences"
+        },
+        {
+          "title": "Aconf",
+          "url": "https://www.aconf.org/",
+          "desc": "One-stop academic event solutions"
+        },
+        {
+          "title": "IEEE-Conferences",
+          "url": "https://www.ieee.org/conferences/index.html",
+          "desc": "The world's largest technical professional organization for the advancement of technology"
+        }
+      ]
+    },
+    {
+      "name": "文献管理写作投稿",
+      "tags": [
+        {
+          "title": "Citavi 6 从入门到精通",
+          "url": "https://www.softhead-citavi.com/blog/2328",
+          "desc": "Citavi文献管理与知识组织软件"
+        },
+        {
+          "title": "科研动力",
+          "url": "https://www.howsci.com/",
+          "desc": "专注EndNote使用方法；关注科研方法与论文写作"
+        },
+        {
+          "title": "子聿学长",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU1NjA4NDgzMg==&mid=100001841&idx=1&sn=3b4d6fe634d35343796e4b231340877d&chksm=7bcb333e4cbcba2893c479512f19c03de3c4aa08cef475ee0f5ea00c4b368d9b062493476740&mpshare=1&scene=23&srcid=0331ExAJQxIljLswJD8hKrfL&sharer_sharetime=1617152013250&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "EndNote教程汇总"
+        },
+        {
+          "title": "Connected Papers",
+          "url": "https://www.connectedpapers.com/",
+          "desc": "Explore connected papers in a visual graph"
+        },
+        {
+          "title": "科研者之家",
+          "url": "https://www.home-for-researchers.com/",
+          "desc": "scihub-SCI写作神器-国家自然科学基金-期刊查询"
+        },
+        {
+          "title": "Hemingway Editor",
+          "url": "http://hemingwayapp.com/",
+          "desc": "Hemingway App使您的写作大胆而清晰。"
+        },
+        {
+          "title": "1Checker（易改）",
+          "url": "http://www.1checker.com/",
+          "desc": "校对、语法检查和智能润色"
+        },
+        {
+          "title": "Grammar Check",
+          "url": "https://www.grammarcheck.me/#",
+          "desc": "Free Online Grammar Checker"
+        },
+        {
+          "title": "NOUNPLUS",
+          "url": "https://www.nounplus.net/grammarcheck/",
+          "desc": "Grammar Check Online"
+        },
+        {
+          "title": "SpellCheckPlus",
+          "url": "https://spellcheckplus.com/",
+          "desc": "Online Spelling and Grammar Checker for English as a Second Language"
+        },
+        {
+          "title": "Ginger",
+          "url": "https://www.gingersoftware.com/",
+          "desc": "English Grammar &amp; Writing App"
+        },
+        {
+          "title": "Reverso",
+          "url": "https://www.reverso.net/text_translation.aspx?lang=ZH",
+          "desc": "免费翻译, 词典, 语法"
+        },
+        {
+          "title": "After the Deadline",
+          "url": "https://www.polishmywriting.com/",
+          "desc": "Check Spelling, Style, and Grammar with After the Deadline"
+        },
+        {
+          "title": "Paper Checker",
+          "url": "https://www.paperrater.com/free_paper_grader",
+          "desc": "Online Proofreader and Grammar Checker"
+        },
+        {
+          "title": "英语作文大全",
+          "url": "http://www.dioenglish.com/writing/",
+          "desc": "英语作文,英语短文,英语手抄报,英语作文万能句子"
+        },
+        {
+          "title": "InCites Journal Citation Reports",
+          "url": "https://jcr.clarivate.com/JCRLandingPageAction.action",
+          "desc": "Search a journal title or select an option to get started"
+        },
+        {
+          "title": "LetPub",
+          "url": "http://www.letpub.com.cn/index.php?page=resources",
+          "desc": "sci论文写作，期刊投稿，IF查询，基金申请资源"
+        },
+        {
+          "title": "MedSci梅斯",
+          "url": "https://www.medsci.cn/sci/journal_index",
+          "desc": "期刊智能查询工具"
+        },
+        {
+          "title": "丁香通",
+          "url": "http://journal.biomart.cn/",
+          "desc": "SCI期刊数据库_影响因子查询"
+        },
+        {
+          "title": "Scholarscope",
+          "url": "https://www.scholarscope.cn/tools/singlesearch.html",
+          "desc": "期刊影响因子查询"
+        },
+        {
+          "title": "SJR",
+          "url": "https://www.scimagojr.com/",
+          "desc": "Scimago Journal &amp; Country Rank"
+        },
+        {
+          "title": "EditSprings艾德思",
+          "url": "https://www.editsprings.com/sciqkcx",
+          "desc": "专业的SCI期刊影响因子查询系统（2019-2020）-SCI润色、SCI翻译、论文翻译服务公司"
+        },
+        {
+          "title": "Topedit",
+          "url": "https://ijournal.topeditsci.com/home",
+          "desc": "期刊查询与选择服务系统"
+        },
+        {
+          "title": "JournalGuide",
+          "url": "https://www.journalguide.com/",
+          "desc": "Find the best journal for your research"
+        },
+        {
+          "title": "Springer Journal Suggester",
+          "url": "https://journalsuggester.springer.com/",
+          "desc": "nter your manuscript details to see a list of journals most suitable for your research."
+        },
+        {
+          "title": "Edanz Group",
+          "url": "https://en-author-services.edanz.com/journal-selector",
+          "desc": "Journal Selector"
+        },
+        {
+          "title": "CASSI",
+          "url": "https://cassi.cas.org/search.jsp",
+          "desc": "CAS Source Index (CASSI) Search Tool"
+        }
+      ]
+    },
+    {
+      "name": "论文查重降重修改",
+      "tags": [
+        {
+          "title": "维普论文检测【官方网站】",
+          "url": "http://vpcs.cqvip.com/",
+          "desc": "论文查重，毕业论文抄袭检测，24小时自助检测"
+        },
+        {
+          "title": "万方检测",
+          "url": "http://check.wanfangdata.com.cn/",
+          "desc": "文献相似性检测服务"
+        },
+        {
+          "title": "CNKI科研诚信管理系统研究中心",
+          "url": "http://check7.cnki.net/",
+          "desc": "知网学术不端检测仅向机构提供服务，不向个人开放"
+        },
+        {
+          "title": "GDCha国道查重",
+          "url": "http://gdcha.oadds.cn/",
+          "desc": "基于国际权威的turnitin系统，支持中文、英文查重，职称论文、期刊投稿、毕业论文、留学生论文全面检测。"
+        },
+        {
+          "title": "Turnitin查重",
+          "url": "https://www.turnitincn.com/",
+          "desc": "英文论文查重检测软件,外文论文相似度检测系统"
+        },
+        {
+          "title": "iThenticate查重",
+          "url": "https://www.ithenticatecn.com/",
+          "desc": "SCI英文期刊投稿查重软件,CrossCheck检测网站"
+        },
+        {
+          "title": "PaperRater论文检测系统",
+          "url": "http://www.paperrater.net/",
+          "desc": "论文检测软件_免费论文查重网站"
+        },
+        {
+          "title": "百度学术",
+          "url": "https://xueshu.baidu.com/usercenter/papercheck/homeindex?site=index_links",
+          "desc": "查重网站推荐"
+        },
+        {
+          "title": "G·格子达",
+          "url": "http://www.gocheck.cn/",
+          "desc": "论文引用检测系统"
+        },
+        {
+          "title": "Plagiarism Checker",
+          "url": "https://www.duplichecker.com/",
+          "desc": "100% Free and Accurate"
+        },
+        {
+          "title": "蚂蚁查重网",
+          "url": "http://www.antcheck.cn/",
+          "desc": "集免费论文查重入口,为实惠知网检测系统而生！"
+        },
+        {
+          "title": "明鉴",
+          "url": "http://www.okcheck.cn/",
+          "desc": "论文查重_学术不端检测系统_免费毕业论文抄袭检测"
+        },
+        {
+          "title": "论文查重检测入口",
+          "url": "https://chkicnki.checkpass.net/",
+          "desc": "全国知名品牌检测系统 一站式查重服务"
+        },
+        {
+          "title": "大雅相似度分析",
+          "url": "http://dsa.dayainfo.com/",
+          "desc": "论文检测、论文查重系统"
+        },
+        {
+          "title": "PaperFree官网",
+          "url": "https://www.paperfree.cn/",
+          "desc": "免费论文检测_免费论文查重_全球首个免费论文相似度检测系统"
+        },
+        {
+          "title": "PaperTime论文时间",
+          "url": "http://www.papertime.cn/",
+          "desc": "论文查重_免费论文检测_在线改重论文检测系统"
+        },
+        {
+          "title": "PaperEra论文查重",
+          "url": "https://www.paperera.com/",
+          "desc": "免费论文查重_论文检测系统"
+        },
+        {
+          "title": "PaperBye官网",
+          "url": "https://www.paperbye.com/",
+          "desc": "论文查重软件免费版-论文检测系统免费查重网站"
+        },
+        {
+          "title": "PaperPass官网",
+          "url": "https://www.paperpass.com/",
+          "desc": "论文查重-论文检测-免费论文查重检测系统"
+        },
+        {
+          "title": "PaperEasy",
+          "url": "http://www.papereasy.com/",
+          "desc": "论文降重修改降低重复率_硕博人工改重包过知网查重"
+        }
+      ]
+    },
+    {
+      "name": "二氧化碳捕集利用",
+      "tags": [
+        {
+          "title": "全球碳捕集与封存研究院",
+          "url": "https://cn.globalccsinstitute.com/",
+          "desc": "全球领先的碳捕集与封存智库"
+        },
+        {
+          "title": "碳导航",
+          "url": "https://navi.co2.press/index.html",
+          "desc": "碳行业资源聚合导航网站"
+        },
+        {
+          "title": "城市温室气体",
+          "url": "http://www.cityghg.com/",
+          "desc": "致力于发布中国高空间分辨率网格数据（CHRED）和城市温室气体清单数据最新进展，应对气候变化原创理论方法和应用实践，以及中国城市温室气体工作组动态。"
+        },
+        {
+          "title": "气候变化",
+          "url": "https://news.un.org/zh/news/topic/climate-change",
+          "desc": "联合国新闻"
+        },
+        {
+          "title": "IPCC",
+          "url": "https://www.ipcc.ch/",
+          "desc": "Intergovernmental Panel on Climate Change"
+        },
+        {
+          "title": "Climeworks",
+          "url": "https://www.climeworks.com/",
+          "desc": "Climeworks offers a technology to reverse climate change."
+        },
+        {
+          "title": "Carbon Engineering",
+          "url": "https://carbonengineering.com/",
+          "desc": "Direct Air Capture of CO2"
+        },
+        {
+          "title": "中英（广东）CCUS中心",
+          "url": "http://www.gdccus.org/",
+          "desc": "广东南方碳捕集与封存产业中心"
+        },
+        {
+          "title": "碳捕集与封存研究中心（上海）",
+          "url": "http://ccsrc.sjtu.edu.cn/CN/Default.aspx",
+          "desc": "上海交通大学"
+        },
+        {
+          "title": "Scottish Carbon Capture &amp; Storage",
+          "url": "https://www.sccs.org.uk/",
+          "desc": "苏格兰碳捕集与封存研究中心"
+        },
+        {
+          "title": "CO2 Science",
+          "url": "http://www.co2science.org/",
+          "desc": "二氧化碳与全球变化研究中心"
+        },
+        {
+          "title": "Carbon Capture Journal",
+          "url": "https://www.carboncapturejournal.com/allnews.aspx",
+          "desc": "碳捕集期刊"
+        },
+        {
+          "title": "Carbon Cycle Institute",
+          "url": "https://www.carboncycle.org/",
+          "desc": "碳农业和可再生牧场管理"
+        },
+        {
+          "title": "Carbon Capture &amp; Sequestration Technologies @ MIT",
+          "url": "http://sequestration.mit.edu/",
+          "desc": "麻省理工学院碳捕集与封存技术"
+        },
+        {
+          "title": "中国城市温室气体可视化V1.0",
+          "url": "http://wxccg.cityghg.com/charts/chartsList",
+          "desc": "中国城市温室气体可视化V1.0"
+        },
+        {
+          "title": "中国高空间分辨率温室气体在线平台（CHRED）",
+          "url": "https://wxccg.cityghg.com/geo/#!g_vs=!13022924.579786267!4803034.173490382!1185.4472926805663!0",
+          "desc": "中国高空间分辨率温室气体在线平台（CHRED）"
+        }
+      ]
+    },
+    {
+      "name": "物性试剂仪器查询",
+      "tags": [
+        {
+          "title": "化工百科",
+          "url": "https://www.chembk.com/cn",
+          "desc": "化工百科查询"
+        },
+        {
+          "title": "化搜网",
+          "url": "http://www.chembible.com/index.html",
+          "desc": "专业的化学品搜索引擎 - 全球化学品搜索网"
+        },
+        {
+          "title": "ChemYQ",
+          "url": "http://www.chemyq.com/",
+          "desc": "个人学习化学知识"
+        },
+        {
+          "title": "化学空间",
+          "url": "https://cn.chem-station.com/",
+          "desc": "Chem-Station"
+        },
+        {
+          "title": "LookChem",
+          "url": "https://www.lookchem.com/",
+          "desc": "look for chemicals all over the world.look for chemicals all over the world."
+        },
+        {
+          "title": "化学加搜索",
+          "url": "http://data.huaxuejia.cn/",
+          "desc": "化合物百科"
+        },
+        {
+          "title": "爱化学",
+          "url": "http://www.ichemistry.cn/",
+          "desc": "CAS_CAS号查询_CAS no查询"
+        },
+        {
+          "title": "化学物质索引数据库",
+          "url": "https://www.drugfuture.com/chemdata/",
+          "desc": "Chemical Index Database"
+        },
+        {
+          "title": "药物在线",
+          "url": "https://www.drugfuture.com/",
+          "desc": "快捷药物信息平台"
+        },
+        {
+          "title": "PROCESS化工网",
+          "url": "https://chem.vogel.com.cn/",
+          "desc": "化工和环保行业的知识服务平台"
+        },
+        {
+          "title": "国际化学品安全卡",
+          "url": "http://icsc.brici.ac.cn/",
+          "desc": "具有 国际权威性和指导性的化学品安全信息 卡片"
+        },
+        {
+          "title": "迈迪网",
+          "url": "http://www.maidiyun.com/",
+          "desc": "工业互联网"
+        },
+        {
+          "title": "制造云",
+          "url": "https://www.zhizaoyun.com/",
+          "desc": "蜂巢工业互联网平台"
+        },
+        {
+          "title": "米思米(misumi)",
+          "url": "https://www.misumi.com.cn/",
+          "desc": "一站式工业品采购平台-工业用品闪购-标准件库"
+        },
+        {
+          "title": "PLC之家",
+          "url": "http://www.plc100.com/",
+          "desc": "PLC编程 可编程控制器 PLC论文 PLC试题 可编程控制器编程"
+        },
+        {
+          "title": "水泵百科",
+          "url": "http://www.pump100.com/",
+          "desc": "螺杆泵_隔膜泵_离心泵_磁力泵_计量泵国内最全水泵品牌知识"
+        },
+        {
+          "title": "西格玛奥德里奇中国",
+          "url": "https://www.sigmaaldrich.com/china-mainland.html",
+          "desc": "生命科学 化学试剂 分析色谱 材料科学"
+        },
+        {
+          "title": "阿拉丁",
+          "url": "https://www.aladdin-e.com/",
+          "desc": "化学试剂、生物试剂、分析试剂等研发用试剂高端领导品牌！"
+        },
+        {
+          "title": "麦克林试剂网",
+          "url": "http://www.macklin.cn/",
+          "desc": "cas号查询、化学试剂、生物试剂、分析试剂、实验试剂"
+        },
+        {
+          "title": "马可波罗",
+          "url": "http://china.makepolo.com/",
+          "desc": "中国领先的精准采购搜索引擎。"
+        },
+        {
+          "title": "百灵威官网",
+          "url": "https://www.jkchemical.com/",
+          "desc": "化学试剂,分析试剂,生化试剂,生物试剂,有机试剂"
+        },
+        {
+          "title": "西典实验",
+          "url": "http://www.seedior.com/",
+          "desc": "西典实验供应试剂 中间体 原料"
+        },
+        {
+          "title": "阿仪网",
+          "url": "http://www.app17.com/",
+          "desc": "仪器信息网,仪器仪表专业平台"
+        },
+        {
+          "title": "环保在线",
+          "url": "https://www.hbzhan.com/product/newtype.html",
+          "desc": "产品分类导航-热门产品导航"
+        }
+      ]
+    },
+    {
+      "name": "图纸模型设计标准",
+      "tags": [
+        {
+          "title": "机械图纸狗",
+          "url": "https://data.newrank.cn/m/s.html?s=OSkrODE3Li5I&k",
+          "desc": "机械图纸搜索和免费下载"
+        },
+        {
+          "title": "浅绘图纸",
+          "url": "https://www.qhtuzhi.com/",
+          "desc": "3D图纸模型下载_图纸共享_图纸交流"
+        },
+        {
+          "title": "3DSource零件库",
+          "url": "http://www.3dsource.cn/",
+          "desc": "海量CAD模型，助力产品设计"
+        },
+        {
+          "title": "电子发烧友",
+          "url": "http://www.elecfans.com/soft/",
+          "desc": "电子电路图,电子技术资料网站"
+        },
+        {
+          "title": "学兔兔",
+          "url": "http://www.bzfxw.com/",
+          "desc": "专注工程技术学习网站_论文资料标准分享"
+        },
+        {
+          "title": "分析测试百科网",
+          "url": "https://www.antpedia.com/standard/",
+          "desc": "标准查询与下载"
+        },
+        {
+          "title": "食品伙伴网",
+          "url": "http://down.foodmate.net/",
+          "desc": "食品行业资料和标准交流"
+        },
+        {
+          "title": "建标库",
+          "url": "http://www.jianbiaoku.com/",
+          "desc": "数百万建筑工程资源，超全规范标准、海量图纸模型等"
+        },
+        {
+          "title": "标准网",
+          "url": "https://www.biaozhun.org/",
+          "desc": "暂只收录国家标准和行业标准"
+        },
+        {
+          "title": "标准免费下载网",
+          "url": "http://www.bzmfxz.com/",
+          "desc": "提供最全的国家标准行业标准免费下载（无需积分、注册，直接下载）"
+        },
+        {
+          "title": "生态环境标准",
+          "url": "http://www.mee.gov.cn/ywgz/fgbz/bz/",
+          "desc": "中华人民共和国生态环境部"
+        },
+        {
+          "title": "工程建设标准发布公告",
+          "url": "http://www.mohurd.gov.cn/bzde/bzfbgg/index.html",
+          "desc": "中华人民共和国住房和城乡建设部"
+        }
+      ]
+    },
+    {
+      "name": "学科竞赛通知公告",
+      "tags": [
+        {
+          "title": "中国大学生Chem-E-Car竞赛",
+          "url": "http://www.chemecar.cn/",
+          "desc": "中国化工学会、教育部化工类专业指导委员会"
+        },
+        {
+          "title": "全国大学生机械创新设计大赛",
+          "url": "http://umic.ckcest.cn/",
+          "desc": "教育部高等学校机械基础课程教学指导分委员会"
+        },
+        {
+          "title": "中国国际“互联网+”大学生创新创业大赛",
+          "url": "https://cy.ncss.cn/",
+          "desc": "教育部"
+        },
+        {
+          "title": "全国大学生过程装备实践与创新大赛",
+          "url": "http://www.gczbds.org/",
+          "desc": "中国机械工程学会、教育部高等学校机械类专业教学指导委员会、教育部高等学校材料类专业教学指导委员会"
+        },
+        {
+          "title": "全国大学生生命科学竞赛",
+          "url": "https://www.culsc.cn/#/",
+          "desc": "教育部高等学校大学生物学课程教学指导委员会、教育部高等学校生物科学类专业教学指导委员会、教育部高等学校生物技术与生物工程类专业教学指导委员会"
+        },
+        {
+          "title": "全国大学生数学建模竞赛",
+          "url": "http://www.mcm.edu.cn/",
+          "desc": "中国工业与应用数学学会"
+        },
+        {
+          "title": "全国大学生数学竞赛",
+          "url": "http://www.cmathc.cn/",
+          "desc": "中国数学会"
+        },
+        {
+          "title": "中国大学生计算机设计大赛",
+          "url": "http://jsjds.ruc.edu.cn/",
+          "desc": "教育部高等学校文科计算机基础教学指导委员会"
+        },
+        {
+          "title": "挑战杯全国大学生课外学术科技作品竞赛和创业计划大赛",
+          "url": "http://www.tiaozhanbei.net/",
+          "desc": "共青团中央、中国科协、教育部和全国学联"
+        },
+        {
+          "title": "我爱竞赛网",
+          "url": "http://m.52jingsai.com/",
+          "desc": "宣传对大家成长有益的赛事活动及其他信息"
+        },
+        {
+          "title": "赛氪",
+          "url": "https://www.saikr.com/",
+          "desc": "大学生竞赛活动社区"
+        }
+      ]
+    },
+    {
+      "name": "分析检测仪器共享",
+      "tags": [
+        {
+          "title": "e测试",
+          "url": "https://www.eceshi.com/",
+          "desc": "一站式分析检测服务平台"
+        },
+        {
+          "title": "科学指南针",
+          "url": "https://www.shiyanjia.com/",
+          "desc": "中国科研仪器预约第一站,海量仪器,免费试样,上门取样,免费复测,速度保障,价格实惠"
+        },
+        {
+          "title": "科研伴侣",
+          "url": "https://www.keyanbanlv.com/",
+          "desc": "提供实验测试、测试咨询、专家直联、耗材直通车等一站式科研服务。"
+        },
+        {
+          "title": "易科学",
+          "url": "https://www.yikexue.com/",
+          "desc": "仪器共享和实验室共享"
+        },
+        {
+          "title": "牵翼网",
+          "url": "https://www.qwings.cn/",
+          "desc": "检验检测_检测机构_第三方检测认证平台"
+        }
+      ]
+    },
+    {
+      "name": "行业协会论坛博客",
+      "tags": [
+        {
+          "title": "中国化学会",
+          "url": "https://www.chemsoc.org.cn/",
+          "desc": "团结组织全国化学工作者，促进化学学科和技术的普及、推广、繁荣和发展"
+        },
+        {
+          "title": "小木虫",
+          "url": "http://muchong.com/bbs/",
+          "desc": "学术科研互动平台"
+        },
+        {
+          "title": "计算化学公社",
+          "url": "http://bbs.keinsci.com/forum.php",
+          "desc": "高水平计算化学、理论化学交流论坛"
+        },
+        {
+          "title": "海川化工论坛",
+          "url": "https://bbs.hcbbs.com/portal.php",
+          "desc": "专业工业人社区化工网"
+        },
+        {
+          "title": "材料牛",
+          "url": "http://www.cailiaoniu.com/",
+          "desc": "服务材料科技创新"
+        },
+        {
+          "title": "能源学人",
+          "url": "https://nyxr-home.com/",
+          "desc": "最具影响力的能源知识服务平台"
+        },
+        {
+          "title": "博士家园",
+          "url": "http://www.math.org.cn/",
+          "desc": "数学学科交流学术网站"
+        },
+        {
+          "title": "科学网",
+          "url": "http://www.sciencenet.cn/",
+          "desc": "构建全球华人科学社区"
+        },
+        {
+          "title": "曹智的无损检测博客",
+          "url": "http://www.ndtblog.net/",
+          "desc": "热爱探讨无损检测技术、交流工作经验的NDTer"
+        },
+        {
+          "title": "MATLAB中文论坛",
+          "url": "https://www.ilovematlab.cn/",
+          "desc": "全球最大的 MATLAB &amp; Simulink 中文社区。"
+        },
+        {
+          "title": "MATLAB技术论坛",
+          "url": "http://www.matlabsky.com/",
+          "desc": "Simulink仿真论坛 | MATLAB函数百科 | MATLAB论坛 | Simulink论坛 | MATLAB下载 | MATLAB教程 | 专业MATLAB技术交流平台!"
+        },
+        {
+          "title": "ExcelHome技术论坛",
+          "url": "http://club.excelhome.net/",
+          "desc": "Excel教程免费学习，Excel表格交流，Excel技巧培训，Office教程下载"
+        }
+      ]
+    },
+    {
+      "name": "五花八门工具合集",
+      "tags": [
+        {
+          "title": "wikiHow",
+          "url": "https://zh.wikihow.com/",
+          "desc": "你可以信赖的万事指南"
+        },
+        {
+          "title": "词林在线词典",
+          "url": "https://www.cilin.org/",
+          "desc": "在线词典|近义词词典|诗词典故|翻译词典"
+        },
+        {
+          "title": "漢典",
+          "url": "https://www.zdic.net/",
+          "desc": "汉典 | 古籍 | 诗词 | 书法 | 通识"
+        },
+        {
+          "title": "兔二工具",
+          "url": "https://www.tool22.com/",
+          "desc": "一个很有范的工具合集"
+        },
+        {
+          "title": "工具123",
+          "url": "http://www.gjw123.com/",
+          "desc": "在线工具_第一家纯在线免安装的工具网站【免费使用】"
+        },
+        {
+          "title": "一个木函",
+          "url": "http://www.woobx.cn/",
+          "desc": "谱写美丽与强大的极致 专业效率集成工具"
+        },
+        {
+          "title": "Quicker",
+          "url": "https://getquicker.net/",
+          "desc": "Quicker软件 您的指尖工具箱"
+        },
+        {
+          "title": "uTools",
+          "url": "https://u.tools/",
+          "desc": "你的生产力工具集"
+        },
+        {
+          "title": "在线计算器",
+          "url": "http://www.ab126.com/",
+          "desc": "科学计算器在线使用-数学-根号-三角形-函数-公式-时间-面积-体积"
+        },
+        {
+          "title": "YoviSun工具集",
+          "url": "https://tool.yovisun.com/",
+          "desc": "YoviSun工具集"
+        },
+        {
+          "title": "Kalvin在线工具",
+          "url": "https://tools.kalvinbg.cn/",
+          "desc": "有趣及实用的工具箱"
+        },
+        {
+          "title": "工具哇！",
+          "url": "http://toolwa.com/",
+          "desc": "在线工具集"
+        },
+        {
+          "title": "Healer的工具箱",
+          "url": "https://tool.yijingying.com/",
+          "desc": "Healer的工具箱"
+        },
+        {
+          "title": "在线工具资料箱",
+          "url": "http://www.toolzl.com/",
+          "desc": "让生活变得更有效率！"
+        },
+        {
+          "title": "MikuTools",
+          "url": "https://tools.miku.ac/",
+          "desc": "一个轻量的工具集合"
+        },
+        {
+          "title": "查错IT网",
+          "url": "http://24mail.chacuo.net/",
+          "desc": "web开发工具 格式化工具 文字工具 网络工具 实用工具 邮箱工具 编码转换 加密解密"
+        },
+        {
+          "title": "KFD",
+          "url": "https://kfd.me/",
+          "desc": "Welcome to KFD! I'm KFC++ !"
+        },
+        {
+          "title": "计量单位在线换算",
+          "url": "http://www.chvacuum.com/tools/pressure.html",
+          "desc": "压力、功率、面积、能量……"
+        },
+        {
+          "title": "在线时钟",
+          "url": "http://www.itswebtime.com/",
+          "desc": "北京时间在线时钟秒表"
+        },
+        {
+          "title": "911查询",
+          "url": "https://www.911cha.com/",
+          "desc": "免费实用查询工具大全网站"
+        },
+        {
+          "title": "新型冠状病毒肺炎疫情",
+          "url": "http://zhongxinzhiyuan.cn/yiqing_real_time_map.html",
+          "desc": "新冠疫情实时数据"
+        },
+        {
+          "title": "AII文章生成器",
+          "url": "http://www.aiivip.com/",
+          "desc": "免费在线AI文章生成器-自媒体软文原创生成工具"
+        },
+        {
+          "title": "狗屁不通文章生成器",
+          "url": "https://suulnnka.github.io/BullshitGenerator/index.html?%E4%B8%BB%E9%A2%98=%E6%88%91%E5%A5%BD%E5%96%9C%E6%AC%A2%E4%BD%A0%E5%95%8A&%E9%9A%8F%E6%9C%BA%E7%A7%8D%E5%AD%90=4242492515",
+          "desc": "狗屁不通文章生成器"
+        },
+        {
+          "title": "纸牌屋伪原创",
+          "url": "http://www.zhipaiwu.com/",
+          "desc": "伪原创检测_在线伪原创_伪原创工具"
+        },
+        {
+          "title": "BgRemover",
+          "url": "https://www.aigei.com/bgremover",
+          "desc": "在线图片去底工具"
+        },
+        {
+          "title": "众果搜",
+          "url": "http://www.zhongguosou.com/",
+          "desc": "众多个人成果搜集整理：个人在学习教育、快捷办公、网页设计、文档处理等软件使用和在线网页小工具编写等。"
+        },
+        {
+          "title": "美寄词云",
+          "url": "https://www.moage.cn/",
+          "desc": "中文文字云,Word Art Cloud,标签云词云在线生成器"
+        },
+        {
+          "title": "天牛表白网",
+          "url": "http://www.tianox.com/",
+          "desc": "让爱更简单 表白网页免费在线制作"
+        },
+        {
+          "title": "我要表白网",
+          "url": "http://www.51bbw.cn/index.html",
+          "desc": "最浪漫的表白网页在线生成网站"
+        },
+        {
+          "title": "表白时刻",
+          "url": "http://www.biaobaishike.com/",
+          "desc": "表白网页在线制作_创意表白"
+        },
+        {
+          "title": "万能命令",
+          "url": "https://wanneng.run/cn/",
+          "desc": "快捷寻找和直达你想要的各类工具"
+        },
+        {
+          "title": "HHTJim's部落格 Web App",
+          "url": "https://link.hhtjim.com/",
+          "desc": "外链转换工具 | 分享链接转直链"
+        },
+        {
+          "title": "WebOS平台",
+          "url": "http://www.25os.com/",
+          "desc": "网络应用休闲平台"
+        },
+        {
+          "title": "123apps",
+          "url": "https://123apps.com/cn/",
+          "desc": "免费网络应用"
+        },
+        {
+          "title": "图灵机器人",
+          "url": "http://www.turingapi.com/",
+          "desc": "智能好用的聊天机器人"
+        },
+        {
+          "title": "晨风机器人论坛",
+          "url": "https://bbs.52svip.cn/",
+          "desc": "晨风机器人论坛"
+        },
+        {
+          "title": "Yesaaa微赢",
+          "url": "https://www.yesaaa.com/web/index.php?c=account&a=welcome&",
+          "desc": "微信上墙，现场大屏幕抽奖"
+        },
+        {
+          "title": "微友助手",
+          "url": "https://www.weiyoubot.cn/",
+          "desc": "安全稳定国内领先微信群管家"
+        },
+        {
+          "title": "小视频下载",
+          "url": "http://www.downfi.com/video/",
+          "desc": "抖音、快手等短视频链接复制即下载"
+        },
+        {
+          "title": "V视频助手",
+          "url": "http://v.ranks.xin/",
+          "desc": "一键下载在线视频(支持VIP)"
+        },
+        {
+          "title": "在线繁体字转换器",
+          "url": "https://www.aies.cn/",
+          "desc": "\"简体转繁体\"或\"繁体转简体\""
+        },
+        {
+          "title": "押韵助手",
+          "url": "https://yayun.la/",
+          "desc": "在线查询押韵的字、词、诗、歌"
+        },
+        {
+          "title": "完美韵脚",
+          "url": "http://wanmeiyunjiao.com/",
+          "desc": "让押韵变得简单"
+        },
+        {
+          "title": "迷思雨工具",
+          "url": "https://tool.misiyu.cn/",
+          "desc": "用心的做每一款工具"
+        },
+        {
+          "title": "头像制作",
+          "url": "http://www.jiqie.com/",
+          "desc": "在线非主流动态闪图设计"
+        },
+        {
+          "title": "急切网",
+          "url": "http://www.jiqie.com/d/26.htm",
+          "desc": "傻瓜式仿真荣誉证书在线制作"
+        },
+        {
+          "title": "印章在线制作",
+          "url": "http://www.yinzhang8.com.cn/seal/",
+          "desc": "印章在线制作，免费生成"
+        },
+        {
+          "title": "图好快",
+          "url": "https://www.tuhaokuai.com/",
+          "desc": "支持GIF动图压缩，PNG压缩，JPG压缩，可精确控制照片的长宽和大小。"
+        },
+        {
+          "title": "Clipping Magic",
+          "url": "https://zh.clippingmagic.com/",
+          "desc": "在线删除图像背景"
+        },
+        {
+          "title": "我爱斗图",
+          "url": "https://www.52doutu.cn/",
+          "desc": "斗图表情包在线制作"
+        },
+        {
+          "title": "soogif动图",
+          "url": "https://www.soogif.com/",
+          "desc": "gif动态图片搜索引擎_在线一键制作压缩动图表情工具！"
+        }
+      ]
+    },
+    {
+      "name": "软件破解资源分享",
+      "tags": [
+        {
+          "title": "N多博士科研软件",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjE4NDY4NQ==&mid=2247484145&idx=1&sn=bd57c982680c613927bb1243148d9e41&chksm=c30b4a73f47cc3650aa5b7683f5d88f05b4217ba678a4d76a05e8a9b3c14ed8f2478c07d2ea9&mpshare=1&scene=23&srcid=02098WXMS0XxRGP61w3fv4dh&sharer_sharetime=1612871715973&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "常用科研软件安装包及安装教程"
+        },
+        {
+          "title": "Vposy软件安装管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjU2NzIxNQ==&mid=100022580&idx=1&sn=45e74289ea8ab7861f7c0bfa5f3f7650&chksm=686cec745f1b6562bdee64bfd2bc216a8f2dacae9b9328a80c0cfe4f5fe2ddbc9f844f4b87bc&mpshare=1&scene=23&srcid=0315qIKYrVf6eQIKw8GOWHaa&sharer_sharetime=1615781328546&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "Win软件目录"
+        },
+        {
+          "title": "Vposy软件安装管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjU2NzIxNQ==&mid=100000123&idx=3&sn=0033aab9ee234a7dc1167a5c524253e7&chksm=686f343b5f18bd2d0c0d00622e099eb4c7065d644134d9ab485e0958af767e96b9097704a314&mpshare=1&scene=23&srcid=0217No2RBRAZeBnJcgDGAQ9r&sharer_sharetime=1613526166482&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "Mac软件目录"
+        },
+        {
+          "title": "BIM软件安装管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzUyNjUwNjg3Mg==&mid=2247506785&idx=2&sn=26d0d0dd9e0480190fb5c3a21859de43&chksm=fa0f5576cd78dc6061aab91ad3363c74c1f065bf502af08de1a916b7db59daa79b6413f41903&mpshare=1&scene=23&srcid=0217iqPTESju9dKTPBJKSwYs&sharer_sharetime=1613526056101&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "2020年纪念版（win）"
+        },
+        {
+          "title": "BIM软件安装管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzUyNjUwNjg3Mg==&mid=2247504083&idx=1&sn=891357e0397e07b98448f98e12461446&chksm=fa0f5ec4cd78d7d2f0369d827364e6cf585a709241f5f7fb78db854485bdc04a9cb9ac002e1a&mpshare=1&scene=23&srcid=02173yx5EHQOa8Ga6jaDkxTK&sharer_sharetime=1613526084006&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "专业MAC软件安装"
+        },
+        {
+          "title": "一锅汤软件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4ODMwMjE1MA==&mid=500095713&idx=1&sn=b3838ef4832709024ae488ace516f644&chksm=08164dc83f61c4de61d75b0147ee5a14a85071608540a9c181984726f4dc362ef785ba5f30e2&mpshare=1&scene=23&srcid=0217xXXlnGYAWg25Qqv8nylX&sharer_sharetime=1613526646442&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "公众号一锅汤精品软件合集"
+        },
+        {
+          "title": "软件安装助理",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU0ODQ5NTE2OA==&mid=100000061&idx=1&sn=e000d01e327adbb8b3440e25ed93b168&chksm=7bbf0b124cc882049417aa12c44312ef4d2a2d9bc41005fd3588940fcde9c65712eba4753332&mpshare=1&scene=23&srcid=02174SNdCPjMshVO3DS9AFKE&sharer_sharetime=1613526208606&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录"
+        },
+        {
+          "title": "软件通",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzUyMzg3NDQzMg==&mid=100003333&idx=1&sn=3aa0b0a9d7b20c464d91752704a38488&chksm=7a34b7ea4d433efc07fa1234d1982bec2b85d9d12b73ad2c2f0a8c7f74c76343d9b6535122f9&mpshare=1&scene=23&srcid=0217HugArdwXshHtc2MR9NS2&sharer_sharetime=1613526354999&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录"
+        },
+        {
+          "title": "软件安装小生",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzY2ODk5MQ==&mid=100002594&idx=1&sn=a78bb2ef96ae3b443dcb4f4df77fb7c1&chksm=7de9c7b24a9e4ea46244dd20d91d2347863f29dbb80ced3e0279ad5ee6976b9f05abbfe952be&mpshare=1&scene=23&srcid=0217GmuvdRNas8hAPHrMvORZ&sharer_sharetime=1613526246156&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "Win软件安装目录!"
+        },
+        {
+          "title": "软件安装小生",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU4NzY2ODk5MQ==&mid=100013438&idx=1&sn=d4b0b02d91f01c13d1f7629336707797&chksm=7dea39ee4a9db0f84c41362b431f2dc4151fb1a23ea72ea15386d1bf303046c1c4e013fe23d6&mpshare=1&scene=23&srcid=0217y6XZpafRGXi1nD8iczle&sharer_sharetime=1613526225590&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "手机神器"
+        },
+        {
+          "title": "软件科技库",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjgwOTA2NA==&mid=100003873&idx=1&sn=06829d3b39051808bb4c6f392f18bb5a&chksm=7c6281a64b1508b0b539c799fad1a21cefb8e6698f57db8d51cd2c47412685cbdffd7975e007&mpshare=1&scene=23&srcid=0217QmD5nyA4lVonN13HCS57&sharer_sharetime=1613526307144&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "史上最强专业软件合集，免费获取！"
+        },
+        {
+          "title": "软件领域",
+          "url": "https://mp.weixin.qq.com/mp/homepage?__biz=MzIzMTI2Njk2OQ==&hid=9&sn=2455285dde49dbffa1cae3987f92d1e7&scene=18&devicetype=android-29&version=28000159&lang=zh_CN&nettype=ctnet&ascene=7&session_us=gh_b060e82b3b39&pass_ticket=F71ue9Z69Om5H5qLAx5aM94S79lYOip66b19aKDC3BJSUG8LcYbjdL3dcYXPd0bI&wx_header=1",
+          "desc": "手机软件"
+        },
+        {
+          "title": "软件智库",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyNjk1MjA5MA==&mid=100000311&idx=1&sn=985984d18c543931f6b03505572e38d5&chksm=6869d4c25f1e5dd414840ffe899a1bc4e2b7165ea9fc4573b696685ec164997d2b602679eda4&mpshare=1&scene=23&srcid=0217clYcEStgfVuzPwlq8TJG&sharer_sharetime=1613526260718&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件库"
+        },
+        {
+          "title": "软件管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MjU4MTg2Ng==&mid=100000030&idx=1&sn=d72a50fa20c11ad5a4f3d5303e15235a&chksm=1f82c11b28f5480df52e03c66394b26403c3d0940bf74b45e5cd83266816dfccb35f81d92a8d&mpshare=1&scene=23&srcid=0217kUpgihnyXOoMUiRtzyXY&sharer_sharetime=1613526896865&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录[Windows软件]"
+        },
+        {
+          "title": "软件安装管家免费版",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg2OTAwNzQzOA==&mid=100002326&idx=1&sn=4da970b2c3d4c55af0eae6843a6183f5&chksm=4ea2e33779d56a21caeaebe094cb53f2a6cf973ce4efd1b179cc506b9adf212a100db7d36070&mpshare=1&scene=23&srcid=0217kULQlyU2lJe6KLjDhD2v&sharer_sharetime=1613527192777&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录"
+        },
+        {
+          "title": "软件新管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3NDU5NDIyNg==&mid=2247501148&idx=4&sn=391ffb0392a5a92e222b87df9372f6e5&chksm=eb132581dc64ac976ba92f146467321f76c3eb4f074db1a15baa41cd9cf9135c97135537311b&mpshare=1&scene=23&srcid=02179la44csBP972Xf8z0FW8&sharer_sharetime=1613527432860&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件大全-每日更新"
+        },
+        {
+          "title": "火耳软件安装",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU0MTg5NDkzNA==&mid=100016878&idx=1&sn=b5c516309e40fad5f2913d52d0d9eaf9&chksm=7b2072974c57fb813defedc31de4aeead9b781dc4645180f1e8189e365858e5b12db428428e7&mpshare=1&scene=23&srcid=0217Jcb0m8lE50MB9KSlj0RV&sharer_sharetime=1613527111960&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录【火耳】"
+        },
+        {
+          "title": "软件视界",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODczMDQzNg==&mid=300845127&idx=1&sn=6ec3ddc35b7e3d60e2b192d5c646f942&chksm=0ba46dec3cd3e4fa997525f4a6ff46ac35025fefa9f1f59677f190d63473b07e238d82d7742a&mpshare=1&scene=23&srcid=0217EESw7VOjBdWcTxRfxAm5&sharer_sharetime=1613527254306&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "实用工具目录"
+        },
+        {
+          "title": "软件安装站",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU4NTUyMjY0MA==&mid=100000787&idx=1&sn=407f5666d2abf201ec088465eb99d945&chksm=7d8808ac4aff81baeb51ac45505b319f5334535ce2c65216c25886dad6afed6d609e2662b66a&mpshare=1&scene=23&srcid=0217y7J2LWyQKmwhkY6LOH54&sharer_sharetime=1613526942312&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件安装站 软件目录"
+        },
+        {
+          "title": "宝藏软件园",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzA1OTc2MQ==&mid=100009015&idx=1&sn=f084645e47f4e53f5a00d7362a975980&chksm=422f7e697558f77f3066748ba2649800b9762764ca500da71f6696fcd6cddd06d418d295387e&mpshare=1&scene=23&srcid=0217xYRZD3UVz10NPUhZaAmd&sharer_sharetime=1613527558660&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "黑科技神器"
+        },
+        {
+          "title": "Adobe软件助手",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MzM5OTAyMg==&mid=2247487818&idx=1&sn=76c4fbbd408a164b8ee9772c93dccd58&chksm=eb22bccbdc5535ddb020f08571767647fc5d3b5c854efac6da0122bd3544b16723ce49e79ef2&mpshare=1&scene=23&srcid=0217YBsKXNlyRVw3xNE8VHpI&sharer_sharetime=1613535575162&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "Adobe.2020年全网封杀下架盗版？！我要软件怎么办？"
+        },
+        {
+          "title": "电脑学习",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDU3NDUzNw==&mid=503532462&idx=1&sn=faeeecef48a9350afb2754271d8cfb69&chksm=0412c38833654a9edd09af50190e9f85e6c67293dc5438adc9d19224d58934654c95c327dfab&mpshare=1&scene=23&srcid=0217sZelYuJ3DzpIj1zTNrFR&sharer_sharetime=1613535709186&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "超强工具库！"
+        },
+        {
+          "title": "电脑学习",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDU3NDUzNw==&mid=503522720&idx=1&sn=9e88399822a1df0c5ab8213f74909ad9&chksm=0412ad8633652490f1eed281114a3315c8a0295de87b7af8c97c88750c103965b9030457fd61&mpshare=1&scene=23&srcid=0217PTWX30AhtqPwC5Vu8rx7&sharer_sharetime=1613535868969&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "mac软件（苹果系统软件）"
+        },
+        {
+          "title": "小白资源盒",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU2NTQwNjg4MA==&mid=100000886&idx=1&sn=e44304f2f5159ffbe0db7e82667fa3e2&chksm=7cbd79b94bcaf0afd86b40f95106b0ca8869aa4fa15da486bc24cb75562e75c66fb7c936ea27&mpshare=1&scene=23&srcid=0217XnFNVHMs23J9qflkTd7X&sharer_sharetime=1613535606706&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "WIN 软件目录"
+        },
+        {
+          "title": "晨夕科技汇",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4MTMyMjQ1Nw==&mid=100001690&idx=1&sn=b06d41764e878c42cf912e0cea5d7b88&chksm=1f978f2c28e0063ab6237aa085e533c6e71850c60bd14e20e5434f5fa098d192697a00b167d8&mpshare=1&scene=23&srcid=0217NlSrX2MaRaDeIIEqrmbG&sharer_sharetime=1613535927167&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "公众号软件分类目录"
+        },
+        {
+          "title": "EDIUS",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzAxNDY5OTQ2OQ==&mid=2650467554&idx=2&sn=f10ceaf237b69bc86afd3443149a8a61&chksm=83811240b4f69b569e020fb0a224b9b368b93713d994c2371aecf054eab8dd39cb3403ef4e0e&mpshare=1&scene=23&srcid=02177BR27IQpQH62tHgPe1ue&sharer_sharetime=1613536052206&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "部分常用WIN软件下载目录"
+        },
+        {
+          "title": "王小叔软件安装",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU1MjU5NDY4OQ==&mid=100000013&idx=1&sn=40f0d1e31c98e02e941158ae62a7e863&chksm=7bfefd634c8974750b70b75c0537e25741dc7d707b990cdf3cfa97e90a0fa9f2cfeed3f64593&mpshare=1&scene=23&srcid=0217oEGFOrDAYHGNusJqCqke&sharer_sharetime=1613527609103&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录【Win软件】"
+        },
+        {
+          "title": "王小叔软件安装",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU1MjU5NDY4OQ==&mid=100006916&idx=1&sn=0e980ecd01c9d16dd6b0c2c3ceb2b5bd&chksm=7bfee06a4c89697c93d9a2d53c78960d2681cfc83415322a40e795b7ad86e5f2ec429730389f&mpshare=1&scene=23&srcid=0217FaZA5Bb97yifyjuxT6k0&sharer_sharetime=1613527598871&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录【Mac软件】"
+        },
+        {
+          "title": "软件视界",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3ODczMDQzNg==&mid=300845126&idx=1&sn=394ae12c7c1292978590794b44d541e5&chksm=0ba46ded3cd3e4fb811d18ba8a4beaf825231df5c11039b113fcd3091e91df6785122c4d8732&mpshare=1&scene=23&srcid=0217xn43duDovSWpA14ZtVCC&sharer_sharetime=1613527217657&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "黑科技目录"
+        },
+        {
+          "title": "宝藏软件园",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNzA1OTc2MQ==&mid=100009017&idx=1&sn=42d79382193fa8d3bf107c4c68bff8e9&chksm=422f7e677558f7716d456d0836b56aaee29bc78dfb9b9686aaaedfc47ccfe80e5da49310880f&mpshare=1&scene=23&srcid=0217WuQB4ucNKTUuEI2qfQgY&sharer_sharetime=1613527549555&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "常用工具"
+        },
+        {
+          "title": "十分软件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU3ODkzNjIzMg==&mid=2247484546&idx=1&sn=ac9b8259aa6ce040e617491765e22018&chksm=fd6c8845ca1b0153b5aff699c30cd656e85e36a8fde3cc45a29e83465e6963a6d606230f86ef&mpshare=1&scene=23&srcid=0217NtDgk1RYzMUhKoPWRYo7&sharer_sharetime=1613535891121&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "目录在手资源用的更顺手"
+        },
+        {
+          "title": "施工者大家庭",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU5OTgxMDA5Nw==&mid=2247488359&idx=1&sn=54737f44e2e36b24114e7f386c23556f&chksm=feae1a39c9d9932f441d58dd8e42c4836b40575da45cfac75e0be5710d65c1f263a522d63749&mpshare=1&scene=23&srcid=0217ORYo6HaYU2JoPT6jn5ty&sharer_sharetime=1613535948166&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "【软件下载目录】免费获取"
+        },
+        {
+          "title": "办公软件资源共享",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU2NjEzNjcwNg==&mid=100001502&idx=1&sn=a8b92c794db4294af4655868b72a57db&chksm=7cb05c334bc7d52580f295eb911d25ce1c69adde481280eb7e724e917f8fecf0e1ca7e47b03b&mpshare=1&scene=23&srcid=0217f1FLdILWmkNDSkIcIQSe&sharer_sharetime=1613526460665&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "目录(最新）"
+        },
+        {
+          "title": "大学生资源共享平台",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI2ODc4NTgwNQ==&mid=2247490681&idx=1&sn=ea15a941d449a532af57bb1e310dca0c&chksm=eaeb1d9bdd9c948d4c9ca74d10eff7533cade59de412def8d1988446fb199f22bb73ec0d4bd0&mpshare=1&scene=23&srcid=021752Ne93yURoU9BvJAMRIz&sharer_sharetime=1613535647644&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件目录6.0"
+        },
+        {
+          "title": "科研sci绘图",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjgwMTY5Mg==&mid=502713722&idx=1&sn=5a3544f4b5d0da674e3a18f1073a7d7c&chksm=02c6840935b10d1fe82445daac5d4cfa8b2d9d5e480db7ae8de514de10ef70ae6ee44de14468&mpshare=1&scene=23&srcid=0322ftjvgf6wWbfAaFI8hKKl&sharer_sharetime=1616383869537&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件安装教程【Window】"
+        },
+        {
+          "title": "科研sci绘图",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjgwMTY5Mg==&mid=502716594&idx=1&sn=84e1f66f8d2734a519f6253e03c76787&chksm=02c691c135b118d72c9846414838ee6a125aeb4842c6e645601d3c59674070eeaaecf5e8fab6&mpshare=1&scene=23&srcid=0410mK7UgBqWNUTFpEGcv9eU&sharer_sharetime=1618060058329&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "软件安装教程【Mac】"
+        },
+        {
+          "title": "软件科技库",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzU2MjgwOTA2NA==&mid=100003873&idx=1&sn=06829d3b39051808bb4c6f392f18bb5a&chksm=7c6281a64b1508b0b539c799fad1a21cefb8e6698f57db8d51cd2c47412685cbdffd7975e007&mpshare=1&scene=23&srcid=03218uDtgRELN5kQM6mhiEJ0&sharer_sharetime=1616289886639&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "史上最强专业软件合集，免费获取！"
+        },
+        {
+          "title": "管家团队官方网站",
+          "url": "http://www.gjtd666.com/",
+          "desc": "软件安装管家"
+        },
+        {
+          "title": "AlternativeTo",
+          "url": "https://alternativeto.net/",
+          "desc": "Crowdsourced software recommendations"
+        },
+        {
+          "title": "软件学堂",
+          "url": "http://www.xue51.com/",
+          "desc": "提供最安全的pc软件_免费Mac软件和最热门的游戏下载"
+        },
+        {
+          "title": "花间社",
+          "url": "https://www.huajclub.com/",
+          "desc": "免费分享各种软件及教程"
+        },
+        {
+          "title": "异次元软件世界",
+          "url": "https://www.iplaysoft.com/",
+          "desc": "软件改变生活！"
+        },
+        {
+          "title": "当游网",
+          "url": "http://www.3h3.com/soft/",
+          "desc": "软件下载中心_电脑软件大全_绿色软件免费下载"
+        },
+        {
+          "title": "pc6下载站",
+          "url": "http://www.pc6.com/",
+          "desc": "官方软件下载基地-安全、高速、放心的下载网站！"
+        },
+        {
+          "title": "MACno1",
+          "url": "https://www.macno1.com/",
+          "desc": "提供安全免费的Mac软件_手机软件_部分windows软件分享博客"
+        },
+        {
+          "title": "老殁",
+          "url": "https://www.mpyit.com/",
+          "desc": "免费推荐优秀软件"
+        },
+        {
+          "title": "蚂蚁兄弟",
+          "url": "https://www.mayixiongdi.cn/ruanjiandaquan",
+          "desc": "软件大全"
+        },
+        {
+          "title": "软件库",
+          "url": "https://www.rjk6.com/",
+          "desc": "乔合|游戏软件|活动线报|免费软件库|乔合软件库资源网"
+        },
+        {
+          "title": "破解窝",
+          "url": "http://www.pojiewo.com/",
+          "desc": "IT技术猿孵化平台"
+        },
+        {
+          "title": "搜软",
+          "url": "https://www.souruan.xyz/index.html",
+          "desc": "精品手机应用免费下载"
+        },
+        {
+          "title": "软件基地",
+          "url": "http://www.rjjd6.com/",
+          "desc": "软件分享 - 电影分享 - 破解游戏 - 破解软件"
+        },
+        {
+          "title": "黑域基地",
+          "url": "http://www.hybase.com/",
+          "desc": "专注好用破解软件下载"
+        },
+        {
+          "title": "村长科技",
+          "url": "http://www.cz2019.xyz/wap_cunzhang2019.html?showWelcome=1",
+          "desc": "福利软件官方网站（ios 安卓 tv pc破解软件App-村长的资源）"
+        },
+        {
+          "title": "UC电脑园",
+          "url": "https://www.uc23.net/",
+          "desc": "深度系统下载_ghost_win10系统64位_oem原版系统_win7纯净版32位"
+        },
+        {
+          "title": "乐软博客",
+          "url": "https://www.isharepc.com/",
+          "desc": "致力于推荐各种优秀实用软件，网络资源"
+        },
+        {
+          "title": "吾爱分享网",
+          "url": "https://52sharing.cn/",
+          "desc": "分享是一种态度"
+        },
+        {
+          "title": "阡途",
+          "url": "http://www.tentod.com/store",
+          "desc": "应用商店、文库"
+        },
+        {
+          "title": "峰哥博客",
+          "url": "http://zzzzzz.me/",
+          "desc": "QQ技术博客，软件分享网"
+        },
+        {
+          "title": "异星软件空间",
+          "url": "http://www.yxssp.com/",
+          "desc": "感受不一样的精彩体验！"
+        },
+        {
+          "title": "果核剥壳",
+          "url": "https://www.ghpym.com/",
+          "desc": "还原软件的本质"
+        },
+        {
+          "title": "极梦小屋",
+          "url": "https://www.jimeng365.cn/rj",
+          "desc": "软件工具"
+        },
+        {
+          "title": "i3综合社区",
+          "url": "https://www.i3zh.com/",
+          "desc": "搜罗全网黑科技应用，分享海量玩机技巧！"
+        },
+        {
+          "title": "福普",
+          "url": "https://www.faup.cn/",
+          "desc": "白嫖快乐你我他"
+        },
+        {
+          "title": "零零猴资源库",
+          "url": "https://l0h.cn/",
+          "desc": "给资源爱好者带来快乐！"
+        },
+        {
+          "title": "小刀娱乐网",
+          "url": "https://www.x6d.com/html/23-1.html",
+          "desc": "专注活动，软件，教程分享！"
+        },
+        {
+          "title": "小黑资源网",
+          "url": "https://www.xhzyw.com/ruanjian/",
+          "desc": "软件仓库"
+        },
+        {
+          "title": "闪电软件园",
+          "url": "http://www.sd173.com/",
+          "desc": "最新软件绿色免费下载"
+        },
+        {
+          "title": "绿盒下载站",
+          "url": "http://www.42xz.com/",
+          "desc": "提供安全免费的电脑软件和手机app下载"
+        },
+        {
+          "title": "数码资源网",
+          "url": "https://www.smzy.com/",
+          "desc": "绿色软件免费下载,安卓游戏软件下载"
+        },
+        {
+          "title": "v5pc",
+          "url": "http://www.v5pc.com/",
+          "desc": "免费实用绿色软件"
+        },
+        {
+          "title": "胡萝卜周博客",
+          "url": "https://www.carrotchou.blog/",
+          "desc": "免费软件分享平台 | 坚持不易,且行且珍惜!"
+        },
+        {
+          "title": "亿破姐",
+          "url": "https://www.ypojie.com/",
+          "desc": "给你所需要的内容YPOJIE.COM！"
+        },
+        {
+          "title": "Filepuma",
+          "url": "https://www.filepuma.com/",
+          "desc": "免费软件下载和评论"
+        },
+        {
+          "title": "ZY Player",
+          "url": "http://zyplayer.fun/",
+          "desc": "资源播放器"
+        }
+      ]
+    },
+    {
+      "name": "软件安装使用教程",
+      "tags": [
+        {
+          "title": "N多博士科研软件视频目录",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0NjE4NDY4NQ==&mid=2247484204&idx=1&sn=1a54afb04c77590e0886696baf0bd3f1&chksm=c30b4baef47cc2b8918b036e9eadf463bb46d7eb9fd78f2594532d13f698508574ca7d124f36&mpshare=1&scene=23&srcid=0209Y4ORVSvjUoqkVVXSQLhr&sharer_sharetime=1612871747117&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "科研软件的视频或文本教程"
+        },
+        {
+          "title": "科研绘图教程",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzAwMjgwMTY5Mg==&mid=502711336&idx=1&sn=ef39596e287c0a813fe2620b4ae98874&chksm=02c68d5b35b1044d1a8b035d067e533f12fc47543de2408f5fade22b1da78e6e24105dc04e99&mpshare=1&scene=23&srcid=041083LVNifAUvq8wcOM1nGA&sharer_sharetime=1618060068918&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "科研sci绘图"
+        },
+        {
+          "title": "oeasy",
+          "url": "http://oeasy.org/",
+          "desc": "oeasy 教程"
+        },
+        {
+          "title": "电脑学习",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA4NDU3NDUzNw==&mid=503533622&idx=1&sn=4b99ba781cc053ff5a56cdcaadce1ec2&chksm=0412d81033655106260cdf80646e527ae0d49254272d92def16a64611c5085dfe1467c1c1958&mpshare=1&scene=23&srcid=0217LwtA7a5EsaJGkhu6tq35&sharer_sharetime=1613535849416&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "视频教程、电子书"
+        },
+        {
+          "title": "doyoudo",
+          "url": "https://www.doyoudo.com/free",
+          "desc": "https://www.doyoudo.com/free"
+        },
+        {
+          "title": "3dmax吧设计网",
+          "url": "http://www.3dmax8.com/3dmax/",
+          "desc": "3dmax教程下载模型网"
+        }
+      ]
+    },
+    {
+      "name": "脚本插件搜索下载",
+      "tags": [
+        {
+          "title": "Greasy Fork",
+          "url": "https://greasyfork.org/zh-CN",
+          "desc": "一个提供用户脚本的网站。"
+        },
+        {
+          "title": "Tampermonkey油猴",
+          "url": "https://www.tampermonkey.net/",
+          "desc": "免费的浏览器扩展和最为流行的用户脚本管理器"
+        },
+        {
+          "title": "画夹插件",
+          "url": "https://huajiakeji.com/",
+          "desc": "Chrome插件 插件推荐 插件排行 Chrome浏览器 热门软件"
+        },
+        {
+          "title": "Microsoft Edge 加载项",
+          "url": "https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home",
+          "desc": "Edge 外接程序 BETA"
+        },
+        {
+          "title": "Chrome插件网",
+          "url": "http://www.cnplugins.com/",
+          "desc": "Google浏览器插件下载"
+        },
+        {
+          "title": "扩展迷",
+          "url": "https://www.extfans.com/",
+          "desc": "Chrome插件扩展下载网"
+        },
+        {
+          "title": "Vposy插件管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MjM5MDE1MDk5OQ==&mid=100001251&idx=1&sn=15a4c139c5b028f158dfbb969ccfe9dd&chksm=26487ddb113ff4cddb100d7910d385758e94b4245bc4f9faba2078eccd4283ed6829b57610e3&mpshare=1&scene=23&srcid=0921M6fIvDuQvwkMGZZji9hz&sharer_sharetime=1600659155960&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "免费提供各类软件插件"
+        },
+        {
+          "title": "BIM软件安装管家",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzUyNjUwNjg3Mg==&mid=2247502654&idx=3&sn=c9a9b8e7cb322309d69f1f2f9e9e277d&chksm=fa0f4529cd78cc3f2bc88d2a46b88b697d02ba2dd3705a6a76f63c352cfa2d6131d63512596b&mpshare=1&scene=23&srcid=0217kKZuj1IVFTB3griVjiZf&sharer_sharetime=1613526072491&sharer_shareid=4bd6ca1811ddbfed9a53195955832634#rd",
+          "desc": "插件目录"
+        },
+        {
+          "title": "3d MAX脚本",
+          "url": "https://www.3d66.com/maxscript.html",
+          "desc": "3D溜溜网"
+        },
+        {
+          "title": "SolidWorks插件下载",
+          "url": "http://www.3h3.com/k/SolidWorksAddinsDownload/",
+          "desc": "SolidWorks必备第三方插件工具集大全"
+        },
+        {
+          "title": "CAD插件大全",
+          "url": "http://www.celiang.net/article/269",
+          "desc": "CAD插件大全合集（附下载）-测量空间"
+        },
+        {
+          "title": "SUAPP插件库",
+          "url": "https://www.suapp.me/",
+          "desc": "专注于SketchUp插件扩展的专业站点"
+        },
+        {
+          "title": "shanse8插件专区",
+          "url": "http://h.shanse8.com/thread-htm-fid-37.html",
+          "desc": "中文汉化|专业汉化网站"
+        },
+        {
+          "title": "大脚(bigfoot)插件官方网站",
+          "url": "http://bigfoot.178.com/",
+          "desc": "更好用的游戏辅助工具"
+        }
+      ]
+    },
+    {
+      "name": "趣味网站",
+      "tags": [
+        {
+          "title": "FlipAnim",
+          "url": "https://flipanim.com/",
+          "desc": "create flipbook animations online!"
+        },
+        {
+          "title": "Hype Magazine",
+          "url": "http://www.xnet.se/fd/",
+          "desc": "File Destructor 2.0"
+        },
+        {
+          "title": "Fold 'N Fly",
+          "url": "https://www.foldnfly.com/",
+          "desc": "Paper Airplane Folding Instructions"
+        },
+        {
+          "title": "ze's page",
+          "url": "http://www.zefrank.com/",
+          "desc": "MANY HAVE COME，BUT I LIKE YOU THE BEST!"
+        },
+        {
+          "title": "Aiism",
+          "url": "http://aiism.com/art_filter/index.html",
+          "desc": "人工智能艺术处理"
+        },
+        {
+          "title": "DOLLARS",
+          "url": "https://drrr.com/",
+          "desc": "在线聊天室"
+        },
+        {
+          "title": "现实君",
+          "url": "http://chat.vvvip.top/",
+          "desc": "实时聊天室"
+        },
+        {
+          "title": "GEEKTyper",
+          "url": "https://geektyper.com/",
+          "desc": "Hacking Simulator"
+        },
+        {
+          "title": "NEO Hacker Typer",
+          "url": "https://www.iplaysoft.com/hackertyper.html",
+          "desc": "不懂代码也能当黑客，9种模式任你选择"
+        },
+        {
+          "title": "网页里的电脑博物馆",
+          "url": "http://www.dnbwg.com/",
+          "desc": "老古董计算机模拟器、经典游戏"
+        },
+        {
+          "title": "知妖",
+          "url": "https://www.cbaigui.com/",
+          "desc": "中国妖怪百集"
+        },
+        {
+          "title": "彩虹屁生成器",
+          "url": "https://chp.shadiao.app/",
+          "desc": "彩虹屁生成器"
+        },
+        {
+          "title": "sanger",
+          "url": "http://www.sanger.dk/",
+          "desc": "点开会有一只狗在舔你屏幕"
+        }
+      ]
+    },
+    {
+      "name": "热门导航",
+      "tags": [
+        {
+          "title": "够思导航",
+          "url": "https://gosbook.cn/",
+          "desc": "看世界的窗口"
+        },
+        {
+          "title": "阿虚同学",
+          "url": "https://axutongxue.com/",
+          "desc": "阿虚同学的储物间"
+        },
+        {
+          "title": "0430网站库",
+          "url": "http://www.0430.com/",
+          "desc": "二十四小时在线的免费顶级国内国外网站目录"
+        },
+        {
+          "title": "技术导航",
+          "url": "https://www.daohangtx.com/",
+          "desc": "学习技术 从这里开始"
+        },
+        {
+          "title": "理工酷",
+          "url": "https://www.ligongku.com/",
+          "desc": "工程师的新技术社区"
+        },
+        {
+          "title": "炫猿",
+          "url": "https://xydh.fun/",
+          "desc": "精美的导航网站"
+        },
+        {
+          "title": "KIM主页",
+          "url": "https://kim.plopco.com/",
+          "desc": "主页从未如此惊艳"
+        },
+        {
+          "title": "搜图导航",
+          "url": "https://www.91sotu.com/",
+          "desc": "一款强大且智能的设计师导航"
+        },
+        {
+          "title": "阿猫阿狗导航",
+          "url": "https://dh.woshipm.com/",
+          "desc": "产品经理导航|运营导航|设计师导航"
+        },
+        {
+          "title": "懒松鼠",
+          "url": "https://lss.vip/",
+          "desc": "办公资源导航"
+        },
+        {
+          "title": "轻工具",
+          "url": "https://qinggongju.com/",
+          "desc": "一个专注收集分享优质免费资源的导航"
+        },
+        {
+          "title": "887D全球网址导航",
+          "url": "https://887d.com/",
+          "desc": "致力于挖掘用户需要的网站。"
+        },
+        {
+          "title": "优设导航",
+          "url": "https://hao.uisdc.com/",
+          "desc": "学设计从这里开始！"
+        },
+        {
+          "title": "爱达杂货铺",
+          "url": "https://adzhp.cn/",
+          "desc": "收集那些有用的东西|爱达导航"
+        },
+        {
+          "title": "禾坡网",
+          "url": "http://www.hepou.com/",
+          "desc": "精选运营工具网址导航大全，做运营从这里开始！"
+        },
+        {
+          "title": "媒帮派",
+          "url": "http://123.meibp.com/",
+          "desc": "优秀新媒体导航"
+        },
+        {
+          "title": "创意酷",
+          "url": "https://www.ideacool.cn/",
+          "desc": "设计师网址导航"
+        },
+        {
+          "title": "兰客书签",
+          "url": "http://n.lackk.com/",
+          "desc": "收藏管理你喜爱的网站"
+        },
+        {
+          "title": "龙轩导航",
+          "url": "http://ilxdh.com/",
+          "desc": "做个有用的导航"
+        },
+        {
+          "title": "非常导航",
+          "url": "https://www.fcdh.net/",
+          "desc": "非常绿色安全的上网导航"
+        },
+        {
+          "title": "迷路导航",
+          "url": "http://www.webra.top/",
+          "desc": "WebRA - MILU"
+        },
+        {
+          "title": "龙喵网",
+          "url": "https://ailongmiao.com/",
+          "desc": "有态度的网址导航"
+        },
+        {
+          "title": "AA导航",
+          "url": "http://lackar.com/aa/",
+          "desc": "AnywhereAnything"
+        },
+        {
+          "title": "PICKFREE",
+          "url": "http://www.pickfree.cn/",
+          "desc": "免费资源导航|免版权图片|免费商用字体|免费音频、视频等设计素材下载"
+        },
+        {
+          "title": "优聚集公开导航",
+          "url": "https://nav.ujuji.com/",
+          "desc": "无道个人的网络书签备份"
+        },
+        {
+          "title": "好资源导航",
+          "url": "https://www.ihutui.com/",
+          "desc": "最好的资源导航网"
+        },
+        {
+          "title": "SBKKO导航",
+          "url": "https://nav.sbkko.com/",
+          "desc": "轻松浏览，便捷上网，效率生活从这里开始！"
+        },
+        {
+          "title": "学UI网",
+          "url": "https://hao.xueui.cn/",
+          "desc": "UI设计师导航网，最专业的UI设计网站"
+        },
+        {
+          "title": "神马导航网",
+          "url": "https://www.smoxo.cn/",
+          "desc": "网址导航,QQ技术导航,中文上网导航"
+        },
+        {
+          "title": "PP网址导航",
+          "url": "https://ppask.cn/",
+          "desc": "设计师网址导航"
+        },
+        {
+          "title": "HiPPTER",
+          "url": "http://www.hippter.com/index.html",
+          "desc": "PPT资源导航 | PPT模板图表等设计素材免费下载"
+        },
+        {
+          "title": "新设主页",
+          "url": "http://www.xinshe666.com/",
+          "desc": "做个有用的设计主页！"
+        },
+        {
+          "title": "UI设计导航",
+          "url": "https://hao.xueui.cn/",
+          "desc": "最专业的UI设计网站"
+        },
+        {
+          "title": "萌站·次元导航",
+          "url": "http://moe321.com/",
+          "desc": "ACG第一站，二次元导航之门，收藏我的二次元(づ￣ 3￣)づ"
+        },
+        {
+          "title": "萌导航",
+          "url": "https://www.moe123.net/",
+          "desc": "你的二次元导航姬！"
+        },
+        {
+          "title": "果汁导航",
+          "url": "http://guozhivip.com/",
+          "desc": "上网从这里开始！"
+        },
+        {
+          "title": "大学生第一导航",
+          "url": "http://www.dxs001.com/",
+          "desc": "打造大学生最喜爱的网址导航"
+        },
+        {
+          "title": "猫爪导航🐱",
+          "url": "https://www.v2fy.com/",
+          "desc": "发掘稀缺资源"
+        },
+        {
+          "title": "趣导航",
+          "url": "https://qssily.com/",
+          "desc": "有深度的网址导航"
+        },
+        {
+          "title": "极客导航",
+          "url": "https://www.jikedaohang.com/",
+          "desc": "简洁的导航网站"
+        },
+        {
+          "title": "资源帝",
+          "url": "http://www.ziyuandi.cn/",
+          "desc": "书籍 购物 排行 音乐 导航 壁纸 搜索 电影"
+        },
+        {
+          "title": "笔点",
+          "url": "https://www.bidianer.com/",
+          "desc": "用心做最简洁的网址导航"
+        },
+        {
+          "title": "考拉新媒体导航",
+          "url": "https://www.kaolamedia.com/",
+          "desc": "新媒体人的专属门户网站"
+        },
+        {
+          "title": "万花筒",
+          "url": "https://wht.im/",
+          "desc": "一万个人眼里有一万个世界"
+        },
+        {
+          "title": "小呆导航",
+          "url": "https://www.webjike.com/",
+          "desc": "可自定义的简洁网址导航"
+        },
+        {
+          "title": "资源猫",
+          "url": "https://www.ziyuanm.com/",
+          "desc": "一个优秀的网址导航！"
+        },
+        {
+          "title": "Hack街-黑客街",
+          "url": "https://www.hackjie.com/",
+          "desc": "黑客技术入门-黑客零基础入门导航-网络安全爱好者的安全导航 | 黑客"
+        },
+        {
+          "title": "1p3专业的网址仓库",
+          "url": "http://www.1p3.cc/",
+          "desc": "集合全部免费的电影、美剧、泰剧韩剧、直播各类网址。"
+        },
+        {
+          "title": "福利社",
+          "url": "https://www.fulis.net/",
+          "desc": "有福利资源的网址导航"
+        },
+        {
+          "title": "24k导航",
+          "url": "https://www.24kdh.com/",
+          "desc": "专注全网优质网址、优质资源分享。"
+        },
+        {
+          "title": "快导航网",
+          "url": "https://www.hifast.cn/",
+          "desc": "站在前方,为你导航"
+        },
+        {
+          "title": "Byr.wiki·北邮人导航",
+          "url": "http://so.byr.wiki/",
+          "desc": "一个框 全能搜"
+        },
+        {
+          "title": "网址大全",
+          "url": "https://www.wzdq.com/",
+          "desc": "分类目录免费网站收录,微信公众号小程序大全"
+        },
+        {
+          "title": "书签地球",
+          "url": "https://www.bookmarkearth.com/",
+          "desc": "中国首家浏览器书签共享平台"
+        },
+        {
+          "title": "小熊时光机",
+          "url": "https://www.smallbear.me/",
+          "desc": "你的网站奇趣之旅"
+        },
+        {
+          "title": "老司机导航",
+          "url": "https://www.magicplayer.net.cn/",
+          "desc": "懂你的年轻人导航"
+        },
+        {
+          "title": "小森林导航",
+          "url": "http://www.xsldh6.com/",
+          "desc": "柳暗花明又一村"
+        },
+        {
+          "title": "书栈网",
+          "url": "https://www.bookstack.cn/",
+          "desc": "程序员IT互联网开源编程书籍免费阅读与下载，取之于猿用之于猿！"
+        },
+        {
+          "title": "Web前端导航",
+          "url": "http://www.alloyteam.com/nav/",
+          "desc": "成为地球卓越的Web团队"
+        },
+        {
+          "title": "WEB前端 · 网址导航",
+          "url": "http://nav.templatesy.com/",
+          "desc": "Resources summary, web site navigation."
+        },
+        {
+          "title": "阿里渣渣网址导航",
+          "url": "http://googlevip8.com/webstack/",
+          "desc": "阿里渣渣java网址导航"
+        },
+        {
+          "title": "36Start",
+          "url": "http://www.36start.com/",
+          "desc": "世界上最纯粹的导航网"
+        },
+        {
+          "title": "引路啦",
+          "url": "http://www.yinlula.com/wangzhan/info",
+          "desc": "网站分类导航"
+        },
+        {
+          "title": "科技贼船的杂货铺",
+          "url": "http://wfagly.ys168.com/",
+          "desc": "你优质上网的指导书~"
+        }
+      ]
+    },
+    {
+      "name": "公益实践",
+      "tags": [
+        {
+          "title": "联合国儿童基金会驻华办事处",
+          "url": "https://www.unicef.cn/",
+          "desc": "UNICEF 中国官网"
+        },
+        {
+          "title": "志愿中国",
+          "url": "https://www.zyz.org.cn/",
+          "desc": "为志愿者提供注册、报名活动、查询服务时长等功能。"
+        },
+        {
+          "title": "中国青年志愿者网",
+          "url": "http://www.zgzyz.org.cn/",
+          "desc": "志愿者活动信息发布和展示平台、注册志愿者开展互动、自我展示的网络平台"
+        },
+        {
+          "title": "央视网公益频道",
+          "url": "https://gongyi.cctv.com/",
+          "desc": "公益频道"
+        },
+        {
+          "title": "创客秀",
+          "url": "http://ck.zhaoshang800.com/",
+          "desc": "众创空间|孵化器 - 创客公共服务平台"
+        },
+        {
+          "title": "中国大学生社会实践知行促进计划",
+          "url": "http://www.zhixingjihua.com/",
+          "desc": "推动和帮助企业，参与支持大学生社会实践和成长发展。"
+        },
+        {
+          "title": "三下乡",
+          "url": "http://sxx.youth.cn/",
+          "desc": "三下乡社会实践官网"
+        },
+        {
+          "title": "中国扶贫基金会",
+          "url": "http://www.cfpa.org.cn/",
+          "desc": "中国扶贫公益领域规模最大、最具影响力的公益组织之一"
+        }
+      ]
+    },
+    {
+      "name": "清新文艺",
+      "tags": [
+        {
+          "title": "拾柒",
+          "url": "https://www.shiqichuban.com/simple/app/#/user/login",
+          "desc": "多平台记录，一键排版，精美印制，让生活更有仪式感。"
+        },
+        {
+          "title": "eHow",
+          "url": "https://www.ehow.com/",
+          "desc": "高质量生活技巧教程分享网站"
+        },
+        {
+          "title": "时光邮局",
+          "url": "https://www.hi2future.com/",
+          "desc": "写给未来的自己"
+        },
+        {
+          "title": "每日一文",
+          "url": "https://meiriyiwen.com/",
+          "desc": "每天一篇随机美文"
+        },
+        {
+          "title": "麦田音乐网",
+          "url": "https://www.mtyyw.com/",
+          "desc": "用音乐和文字温暖生活"
+        },
+        {
+          "title": "听雨轩",
+          "url": "https://www.tingyuxuan.net/",
+          "desc": "轩雨听-与音乐一起流浪"
+        },
+        {
+          "title": "堆糖",
+          "url": "https://www.duitang.com/",
+          "desc": "美图壁纸兴趣社区"
+        },
+        {
+          "title": "豆田",
+          "url": "https://doutian.me/",
+          "desc": "发现美好世界！"
+        },
+        {
+          "title": "Factoclock",
+          "url": "http://factoclock.com/",
+          "desc": "Elvis Presley made only 1 television commercial."
+        },
+        {
+          "title": "720云VR全景发布平台",
+          "url": "https://720yun.com/channel",
+          "desc": "全景重新记录世界"
+        },
+        {
+          "title": "千亿像素看中国",
+          "url": "http://www.bigpixel.cn/",
+          "desc": "大像素城市名片向全世界展示中国"
+        },
+        {
+          "title": "美食杰",
+          "url": "https://www.meishij.net/",
+          "desc": "做你最喜爱的美食"
+        },
+        {
+          "title": "诗词名句网",
+          "url": "https://www.shicimingju.com/",
+          "desc": "古诗词大全|诗歌|诗词鉴赏|古诗名句|诗句赏析！"
+        },
+        {
+          "title": "古诗文网",
+          "url": "https://www.gushiwen.cn/",
+          "desc": "古诗文经典传承"
+        },
+        {
+          "title": "国学梦",
+          "url": "http://www.guoxuemeng.com/",
+          "desc": "传播国学经典 养育华夏儿女"
+        },
+        {
+          "title": "全历史",
+          "url": "https://www.allhistory.com/",
+          "desc": "现代科技与历史的碰撞"
+        }
+      ]
+    },
+    {
+      "name": "科学上网",
+      "tags": [
+        {
+          "title": "AStar VPN",
+          "url": "https://get.astarvpn.app/",
+          "desc": "Free and fast VPN for everyone"
+        },
+        {
+          "title": "iGG谷歌访问助手",
+          "url": "https://iguge.app/",
+          "desc": "永久免费提供谷歌搜索，gmail，Chrome Store,Android/Golang等谷歌产品加速访问"
+        },
+        {
+          "title": "Ghelper",
+          "url": "http://googlehelper.net/",
+          "desc": "供开发人员、跨境工作人员和研究机构使用，以确保和加快互联网冲浪的速度。"
+        },
+        {
+          "title": "Mirror List",
+          "url": "https://www.library.ac.cn/",
+          "desc": "镜像站，为大学师生服务（与任何大学无关）"
+        },
+        {
+          "title": "Microsoft Edge 加载项 - VPN",
+          "url": "https://microsoftedge.microsoft.com/addons/search/VPN?hl=zh-CN",
+          "desc": "60+VPN浏览器插件"
+        },
+        {
+          "title": "UC电脑园",
+          "url": "https://www.uc23.net/s/?keyword=VPN",
+          "desc": "【VPN】的搜索结果"
+        },
+        {
+          "title": "ZAPRO · 杂铺",
+          "url": "https://tmioe.com/category/external",
+          "desc": "海外交流"
+        },
+        {
+          "title": "V2ray XTLS黑科技",
+          "url": "https://v2xtls.org/",
+          "desc": "V2ray XTLS黑科技、trojan和trojan-go带你飞"
+        }
+      ]
+    },
+    {
+      "name": "基础平台",
+      "tags": [
+        {
+          "title": "FastGit",
+          "url": "https://doc.fastgit.org/zh-cn/",
+          "desc": "一个对于 GitHub.com 的镜像加速器"
+        },
+        {
+          "title": "GitHub加速下载",
+          "url": "https://toolwa.com/github/",
+          "desc": "在线工具"
+        },
+        {
+          "title": "DNSPod",
+          "url": "https://www.dnspod.cn/",
+          "desc": "免费智能DNS解析服务商"
+        },
+        {
+          "title": "Gitee",
+          "url": "https://gitee.com/",
+          "desc": "基于 Git 的代码托管和研发协作平台"
+        },
+        {
+          "title": "Freenom",
+          "url": "https://www.freenom.com/",
+          "desc": "免费域名服务商"
+        },
+        {
+          "title": "Gridea",
+          "url": "https://gridea.dev/",
+          "desc": "一个静态博客写作客户端"
+        },
+        {
+          "title": "不蒜子",
+          "url": "http://busuanzi.ibruce.info/",
+          "desc": "极简网页计数器"
+        },
+        {
+          "title": "今日诗词",
+          "url": "https://www.jinrishici.com/#",
+          "desc": "诗词实时智能推荐 - 今日诗词开放接口 - 今日诗词 API"
+        },
+        {
+          "title": "Hitokoto一言",
+          "url": "https://hitokoto.cn/",
+          "desc": "提供一句话服务。"
+        },
+        {
+          "title": "一句",
+          "url": "http://yijuzhan.com/",
+          "desc": "汇聚有料文字"
+        },
+        {
+          "title": "Creative Commons",
+          "url": "https://creativecommons.org/licenses/",
+          "desc": "知识共享许可协议"
+        },
+        {
+          "title": "腾讯兔小巢",
+          "url": "https://txc.qq.com/",
+          "desc": "免费便捷的用户意见反馈服务平台"
+        },
+        {
+          "title": "颜色表大全",
+          "url": "https://www.5tu.cn/colors/yansebiao.html",
+          "desc": "颜色代码 设计配色表 网页配色表"
+        },
+        {
+          "title": "5118简单收录",
+          "url": "http://www.5118.link/",
+          "desc": "免费收录网站导航网址大全"
+        },
+        {
+          "title": "Font Awesome",
+          "url": "https://www.bootcss.com/p/font-awesome/design.html",
+          "desc": "图标字体的代码列表"
+        },
+        {
+          "title": "Font Awesome Icons",
+          "url": "https://fontawesome.com/v4.7.0/icons/",
+          "desc": "The Icons"
+        },
+        {
+          "title": "IP地址查询网站",
+          "url": "http://ip.zxinc.org/",
+          "desc": "在线查询IPv6/IPv4地址"
+        },
+        {
+          "title": "搏天api",
+          "url": "http://api.btstu.cn/",
+          "desc": "免费api接口平台"
+        },
+        {
+          "title": "接口大全",
+          "url": "https://www.free-api.com/",
+          "desc": "免费API,收集所有免费的API"
+        },
+        {
+          "title": "腾讯云",
+          "url": "https://cloud.tencent.com/",
+          "desc": "产业智变 云启未来"
+        },
+        {
+          "title": "百度智能云",
+          "url": "https://cloud.baidu.com/",
+          "desc": "智能时代基础设施"
+        },
+        {
+          "title": "Bmob后端云",
+          "url": "https://www.bmob.cn/",
+          "desc": "全方位一体化的后端服务平台"
+        },
+        {
+          "title": "上线了",
+          "url": "https://www.sxl.cn/",
+          "desc": "免费建站_自助建站_免费网站建设_小程序制作"
+        }
+      ]
+    },
+    {
+      "name": "技术分享",
+      "tags": [
+        {
+          "title": "灰信网",
+          "url": "https://www.freesion.com/",
+          "desc": "软件开发博客聚合"
+        },
+        {
+          "title": "W3School",
+          "url": "https://www.w3school.com.cn/index.html",
+          "desc": "领先的 Web 技术教程 - 全部免费"
+        },
+        {
+          "title": "专知",
+          "url": "https://www.zhuanzhi.ai/",
+          "desc": "为人工智能从业者服务!"
+        },
+        {
+          "title": "全球主机交流论坛",
+          "url": "https://hostloc.com/forum.php",
+          "desc": "全球主机交流"
+        },
+        {
+          "title": "资源分享网",
+          "url": "https://www.ziyuan.tv/",
+          "desc": "免费资源分享网站"
+        },
+        {
+          "title": "魔帆博客",
+          "url": "https://www.morfans.cn/",
+          "desc": "免费资源和福利分享—各类图文教程"
+        },
+        {
+          "title": "卤蛋实验室",
+          "url": "https://www.cnblogs.com/web-scraper/",
+          "desc": "简易数据分析，web scraper"
+        },
+        {
+          "title": "V2EX",
+          "url": "https://www.v2ex.com/",
+          "desc": "创意工作者们的社区"
+        },
+        {
+          "title": "晨风资源网",
+          "url": "https://chenfengwl.com/",
+          "desc": "站长SEO必备分享平台"
+        },
+        {
+          "title": "夏末浅笑的博客",
+          "url": "https://blog.ccswust.org/",
+          "desc": "致力于互联网品牌建设与网络营销"
+        },
+        {
+          "title": "免费资源部落",
+          "url": "https://www.freehao123.com/",
+          "desc": "全球最新免费资源发布区"
+        },
+        {
+          "title": "站长工具",
+          "url": "http://tool.chinaz.com/",
+          "desc": "站长之家"
+        },
+        {
+          "title": "松松站长工具大全",
+          "url": "https://tool.lusongsong.com/",
+          "desc": "最全的站长SEO工具导航"
+        },
+        {
+          "title": "菜鸟工具",
+          "url": "https://c.runoob.com/",
+          "desc": "不止于工具"
+        }
+      ]
+    },
+    {
+      "name": "我爱工作",
+      "tags": [
+        {
+          "title": "Android开发者",
+          "url": "https://developer.android.google.cn/",
+          "desc": "面向 Android 应用开发者的官方网站。提供 Android SDK 工具和 API 文档"
+        },
+        {
+          "title": "Android开发手册",
+          "url": "https://www.apiref.com/android-zh/index.html",
+          "desc": "Package索引 - Android中文版 - API参考文档"
+        },
+        {
+          "title": "Kotlin 语言中文站",
+          "url": "https://www.kotlincn.net/",
+          "desc": "Kotlin 语言Api"
+        },
+        {
+          "title": "Mac用Charles抓包",
+          "url": "https://blog.csdn.net/weixin_46106427/article/details/124070869",
+          "desc": "Mac电脑使用Charles抓取Android手机app的包"
+        }
+      ]
+    }
+  ]
+}
