@@ -46,7 +46,7 @@ check_enable=false
 
 ## 4、体验  test site
 
-[foryoutoy](http://www.foryoutoy.com)
+[www.foryoutoy.com](http://www.foryoutoy.com)
 
 
 ------------------
